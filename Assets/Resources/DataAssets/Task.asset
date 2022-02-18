@@ -1,0 +1,475 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e719f483095d5418cb14efc59745ec, type: 3}
+  m_Name: Task
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    type_mission: 2
+    type_reward: 2
+    need: 1
+    reward: 4
+    reward_growth: 1
+    need_growth: 5
+    icon_name: heart_10
+    description: "\u5B8C\u7F8E\u8FC7\u5173"
+    resistance: 
+  - id: 1
+    type_mission: 2
+    type_reward: 2
+    need: 2
+    reward: 3
+    reward_growth: 1
+    need_growth: 5
+    icon_name: star_mission
+    description: "\u8FC7\u5173\u661F"
+    resistance: 
+  - id: 2
+    type_mission: 2
+    type_reward: 1
+    need: 4
+    reward: 2000
+    reward_growth: 100
+    need_growth: 3
+    icon_name: jian_1
+    description: "\u5347\u661F"
+    resistance: 
+  - id: 3
+    type_mission: 2
+    type_reward: 2
+    need: 3
+    reward: 4
+    reward_growth: 1
+    need_growth: 5
+    icon_name: fit_mission
+    description: "\u5408\u4F53"
+    resistance: 
+  - id: 4
+    type_mission: 1
+    type_reward: 1
+    need: 15
+    reward: 1000
+    reward_growth: 50
+    need_growth: 1
+    icon_name: diamond_10
+    description: "\u94BB\u77F3"
+    resistance: 
+  - id: 5
+    type_mission: 2
+    type_reward: 2
+    need: 15
+    reward: 5
+    reward_growth: 2
+    need_growth: 60
+    icon_name: timemode_1
+    description: "\u65F6\u95F4\u6A21\u5F0F"
+    resistance: 
+  - id: 6
+    type_mission: 1
+    type_reward: 1
+    need: 1000
+    reward: 100
+    reward_growth: 5
+    need_growth: 5000
+    icon_name: animal_1
+    description: "\u9E2D\u9E2D"
+    resistance: -1
+  - id: 7
+    type_mission: 1
+    type_reward: 1
+    need: 2000
+    reward: 105
+    reward_growth: 20
+    need_growth: 20000
+    icon_name: animal_2
+    description: "\u9ED1\u72D7"
+    resistance: -1
+  - id: 8
+    type_mission: 1
+    type_reward: 1
+    need: 2500
+    reward: 115
+    reward_growth: 60
+    need_growth: 60000
+    icon_name: animal_3
+    description: "\u84DD\u8725\u8734"
+    resistance: -1
+  - id: 9
+    type_mission: 1
+    type_reward: 1
+    need: 3000
+    reward: 140
+    reward_growth: 100
+    need_growth: 100000
+    icon_name: animal_4
+    description: "\u677E\u9F20"
+    resistance: -1
+  - id: 10
+    type_mission: 1
+    type_reward: 1
+    need: 3500
+    reward: 150
+    reward_growth: 200
+    need_growth: 250000
+    icon_name: animal_5
+    description: "\u8759\u8760"
+    resistance: -1
+  - id: 11
+    type_mission: 1
+    type_reward: 1
+    need: 4500
+    reward: 180
+    reward_growth: 350
+    need_growth: 400000
+    icon_name: animal_6
+    description: "\u8001\u9E70"
+    resistance: 1
+  - id: 12
+    type_mission: 1
+    type_reward: 1
+    need: 6000
+    reward: 200
+    reward_growth: 500
+    need_growth: 600000
+    icon_name: animal_7
+    description: "\u6811\u888B\u718A"
+    resistance: 1
+  - id: 13
+    type_mission: 1
+    type_reward: 1
+    need: 8000
+    reward: 220
+    reward_growth: 550
+    need_growth: 800000
+    icon_name: animal_8
+    description: "\u6CB3\u72F8"
+    resistance: 1
+  - id: 14
+    type_mission: 1
+    type_reward: 1
+    need: 10000
+    reward: 240
+    reward_growth: 600
+    need_growth: 1000000
+    icon_name: animal_9
+    description: "\u767D\u72D7"
+    resistance: 1
+  - id: 15
+    type_mission: 1
+    type_reward: 1
+    need: 12000
+    reward: 260
+    reward_growth: 650
+    need_growth: 1200000
+    icon_name: animal_10
+    description: "\u72FC"
+    resistance: 2
+  - id: 16
+    type_mission: 1
+    type_reward: 1
+    need: 17000
+    reward: 280
+    reward_growth: 700
+    need_growth: 1700000
+    icon_name: animal_11
+    description: "\u718A"
+    resistance: 2
+  - id: 17
+    type_mission: 1
+    type_reward: 1
+    need: 22000
+    reward: 300
+    reward_growth: 850
+    need_growth: 2200000
+    icon_name: animal_12
+    description: "\u72D0\u72F8"
+    resistance: 2
+  - id: 18
+    type_mission: 1
+    type_reward: 1
+    need: 26000
+    reward: 350
+    reward_growth: 900
+    need_growth: 2600000
+    icon_name: animal_13
+    description: "\u84DD\u9E1F"
+    resistance: 2
+  - id: 19
+    type_mission: 1
+    type_reward: 1
+    need: 30000
+    reward: 400
+    reward_growth: 950
+    need_growth: 3000000
+    icon_name: animal_14
+    description: "\u72D2\u72D2"
+    resistance: 3
+  - id: 20
+    type_mission: 1
+    type_reward: 1
+    need: 35000
+    reward: 450
+    reward_growth: 1000
+    need_growth: 3500000
+    icon_name: animal_15
+    description: "\u732B\u5934\u9E70"
+    resistance: 3
+  - id: 21
+    type_mission: 1
+    type_reward: 1
+    need: 40000
+    reward: 500
+    reward_growth: 1050
+    need_growth: 4000000
+    icon_name: animal_16
+    description: "\u96EA\u602A"
+    resistance: 4
+  - id: 22
+    type_mission: 1
+    type_reward: 1
+    need: 45000
+    reward: 550
+    reward_growth: 1100
+    need_growth: 4500000
+    icon_name: animal_17
+    description: "\u6CB3\u9A6C"
+    resistance: 4
+  - id: 23
+    type_mission: 1
+    type_reward: 1
+    need: 50000
+    reward: 600
+    reward_growth: 1150
+    need_growth: 5000000
+    icon_name: animal_18
+    description: "\u7EA2\u9F99"
+    resistance: 4
+  - id: 24
+    type_mission: 1
+    type_reward: 1
+    need: 100000
+    reward: 200
+    reward_growth: 10
+    need_growth: 100000
+    icon_name: animal_19
+    description: "\u732B"
+    resistance: 1
+  - id: 25
+    type_mission: 1
+    type_reward: 1
+    need: 150000
+    reward: 205
+    reward_growth: 20
+    need_growth: 150000
+    icon_name: animal_20
+    description: "\u732A"
+    resistance: 1
+  - id: 26
+    type_mission: 1
+    type_reward: 1
+    need: 200000
+    reward: 210
+    reward_growth: 50
+    need_growth: 200000
+    icon_name: animal_21
+    description: "\u718A\u732B"
+    resistance: 1
+  - id: 27
+    type_mission: 1
+    type_reward: 1
+    need: 250000
+    reward: 215
+    reward_growth: 100
+    need_growth: 250000
+    icon_name: animal_22
+    description: "\u5317\u6781\u718A"
+    resistance: 1
+  - id: 28
+    type_mission: 1
+    type_reward: 1
+    need: 300000
+    reward: 220
+    reward_growth: 200
+    need_growth: 300000
+    icon_name: animal_23
+    description: "\u91CE\u732A"
+    resistance: 2
+  - id: 29
+    type_mission: 1
+    type_reward: 1
+    need: 350000
+    reward: 225
+    reward_growth: 350
+    need_growth: 350000
+    icon_name: animal_24
+    description: "\u9EC4\u72D7"
+    resistance: 2
+  - id: 30
+    type_mission: 1
+    type_reward: 1
+    need: 400000
+    reward: 230
+    reward_growth: 500
+    need_growth: 400000
+    icon_name: animal_25
+    description: "\u9752\u86D9"
+    resistance: 2
+  - id: 31
+    type_mission: 1
+    type_reward: 1
+    need: 450000
+    reward: 235
+    reward_growth: 550
+    need_growth: 450000
+    icon_name: animal_26
+    description: "\u5976\u725B"
+    resistance: 2
+  - id: 32
+    type_mission: 1
+    type_reward: 1
+    need: 500000
+    reward: 240
+    reward_growth: 600
+    need_growth: 500000
+    icon_name: animal_27
+    description: "\u9A74"
+    resistance: 3
+  - id: 33
+    type_mission: 1
+    type_reward: 1
+    need: 550000
+    reward: 260
+    reward_growth: 650
+    need_growth: 550000
+    icon_name: animal_28
+    description: "\u4F01\u9E45"
+    resistance: 3
+  - id: 34
+    type_mission: 1
+    type_reward: 1
+    need: 600000
+    reward: 280
+    reward_growth: 700
+    need_growth: 600000
+    icon_name: animal_29
+    description: "\u51E0\u7EF4\u9E1F"
+    resistance: 4
+  - id: 35
+    type_mission: 1
+    type_reward: 1
+    need: 650000
+    reward: 300
+    reward_growth: 850
+    need_growth: 650000
+    icon_name: animal_30
+    description: "\u4E4C\u9E26"
+    resistance: 4
+  - id: 36
+    type_mission: 1
+    type_reward: 1
+    need: 700000
+    reward: 350
+    reward_growth: 900
+    need_growth: 700000
+    icon_name: animal_31
+    description: "\u8001\u9F20"
+    resistance: 4
+  - id: 37
+    type_mission: 1
+    type_reward: 1
+    need: 750000
+    reward: 400
+    reward_growth: 950
+    need_growth: 750000
+    icon_name: animal_32
+    description: "\u9E8B\u9E7F"
+    resistance: 1
+  - id: 38
+    type_mission: 1
+    type_reward: 1
+    need: 800000
+    reward: 450
+    reward_growth: 1000
+    need_growth: 800000
+    icon_name: animal_33
+    description: "\u4E4C\u9F9F"
+    resistance: 2
+  - id: 39
+    type_mission: 1
+    type_reward: 1
+    need: 850000
+    reward: 500
+    reward_growth: 1050
+    need_growth: 850000
+    icon_name: animal_34
+    description: "\u96EA\u8C79"
+    resistance: 2
+  - id: 40
+    type_mission: 1
+    type_reward: 1
+    need: 900000
+    reward: 550
+    reward_growth: 1100
+    need_growth: 900000
+    icon_name: animal_35
+    description: "\u6D63\u718A"
+    resistance: 2
+  - id: 41
+    type_mission: 1
+    type_reward: 1
+    need: 1000000
+    reward: 600
+    reward_growth: 1150
+    need_growth: 1000000
+    icon_name: animal_36
+    description: "\u8001\u864E"
+    resistance: 2
+  - id: 42
+    type_mission: 1
+    type_reward: 1
+    need: 1050000
+    reward: 700
+    reward_growth: 1200
+    need_growth: 1050000
+    icon_name: animal_37
+    description: "\u7EF5\u7F8A"
+    resistance: 3
+  - id: 43
+    type_mission: 1
+    type_reward: 1
+    need: 1100000
+    reward: 800
+    reward_growth: 1250
+    need_growth: 1100000
+    icon_name: animal_38
+    description: "\u767D\u5154"
+    resistance: 3
+  - id: 44
+    type_mission: 1
+    type_reward: 1
+    need: 1150000
+    reward: 900
+    reward_growth: 1300
+    need_growth: 1150000
+    icon_name: animal_39
+    description: "\u96C4\u72EE"
+    resistance: 4
+  - id: 45
+    type_mission: 1
+    type_reward: 1
+    need: 1200000
+    reward: 1000
+    reward_growth: 1400
+    need_growth: 1200000
+    icon_name: animal_40
+    description: "\u5C0F\u72EE\u5B50"
+    resistance: 4
