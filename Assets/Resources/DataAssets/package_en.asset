@@ -1,0 +1,1131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f12588e2dab8341bd6f6f84c9b070d, type: 3}
+  m_Name: package_en
+  m_EditorClassIdentifier: 
+  items:
+  - key: gamename
+    value: Animal Candy
+  - key: pass
+    value: Stage
+  - key: turret
+    value: Turret
+  - key: skill
+    value: Skill
+  - key: task
+    value: Task
+  - key: attack
+    value: Attack
+  - key: income
+    value: Income
+  - key: candy
+    value: Free Candy
+  - key: more
+    value: More Info
+  - key: auto
+    value: Auto Merge
+  - key: bank
+    value: Piggy Bank
+  - key: rank
+    value: Leaderboard
+  - key: appraisal
+    value: Evaluation
+  - key: lang
+    value: Language
+  - key: sign
+    value: Attendance
+  - key: set
+    value: Setting
+  - key: game
+    value: Game
+  - key: help
+    value: Help
+  - key: store
+    value: Store
+  - key: skillrealname1
+    value: Egg
+  - key: skillrealname2
+    value: Laser
+  - key: skillrealname3
+    value: Flood
+  - key: skillrealname4
+    value: Avalanche
+  - key: skillrealname5
+    value: Stone Wall
+  - key: skillrealname6
+    value: Lava
+  - key: skillrealname7
+    value: Earthquake
+  - key: skillrealname8
+    value: Electromagnetic
+  - key: skillrealname9
+    value: Iron Ball
+  - key: skillrealname10
+    value: Meteorite
+  - key: skillipname1
+    value: Marco
+  - key: skillipname2
+    value: Vanilla
+  - key: skillipname3
+    value: Coconut
+  - key: skillipname4
+    value: Pinat
+  - key: skillipname5
+    value: Bobo
+  - key: skillipname6
+    value: auspicious
+  - key: skillipname7
+    value: watt
+  - key: skillipname8
+    value: Berry
+  - key: skillipname9
+    value: Berwini
+  - key: skillipname10
+    value: Mitte
+  - key: turretrealname1
+    value: Machine Gun
+  - key: turretrealname2
+    value: Poison Ball Gun
+  - key: turretrealname3
+    value: Ice Cube Gun
+  - key: turretrealname4
+    value: Purple Artillery
+  - key: turretrealname5
+    value: Particle Cannon
+  - key: turretipname1
+    value: Origi
+  - key: turretipname2
+    value: Vettel
+  - key: turretipname3
+    value: Krista
+  - key: turretipname4
+    value: Staples
+  - key: turretipname5
+    value: Shirley
+  - key: fitrealname
+    value: Merging Board
+  - key: fortrealname
+    value: Fort
+  - key: cakerealname
+    value: Life
+  - key: fitipname
+    value: Mocha cake
+  - key: fortipname
+    value: Blueberry cake
+  - key: cakeipname
+    value: Cheesecake
+  - key: taskname0
+    value: Invincible!!
+  - key: taskname1
+    value: Blessing Star
+  - key: taskname2
+    value: Coronation
+  - key: taskname3
+    value: Merge
+  - key: taskname4
+    value: Diamond
+  - key: taskname6
+    value: Duck treasure
+  - key: taskname7
+    value: Laifudi
+  - key: taskname8
+    value: Blue Lizard
+  - key: taskname9
+    value: Squirrel Girl
+  - key: taskname10
+    value: Batman
+  - key: taskname11
+    value: Sir Eagle
+  - key: taskname12
+    value: Sleep treasure
+  - key: taskname13
+    value: Sailor
+  - key: taskname14
+    value: Brother Wangcai
+  - key: taskname15
+    value: Uncle Wolf
+  - key: taskname16
+    value: Angry Bear
+  - key: taskname17
+    value: Cunning Fox
+  - key: taskname18
+    value: Blue Jimmy
+  - key: taskname19
+    value: Wild baboon
+  - key: taskname20
+    value: Owl girl
+  - key: taskname21
+    value: Snow Monster
+  - key: taskname22
+    value: Aunt Hippo
+  - key: taskname23
+    value: Dragon King
+  - key: fail
+    value: Failing Boots
+  - key: atkgrow
+    value: Attack Increase
+  - key: eardouble
+    value: Double Earns
+  - key: takecandy
+    value: Take Candy
+  - key: takediam
+    value: Take Diamonds
+  - key: goupstar
+    value: Attend Coronation
+  - key: daily
+    value: 'Daily '
+  - key: upstar
+    value: Coronation
+  - key: map
+    value: Map
+  - key: infobtn
+    value: Details
+  - key: buy
+    value: Purchase
+  - key: turn
+    value: Transform
+  - key: have
+    value: Have
+  - key: desk
+    value: Station
+  - key: cur
+    value: Current
+  - key: addatk
+    value: Additional Attack
+  - key: grade
+    value: Level
+  - key: life
+    value: Total Life
+  - key: pc
+    value: pc
+  - key: lock
+    value: Unlock
+  - key: firtdam
+    value: MergeDam
+  - key: stardam
+    value: StarDam
+  - key: nextgrade
+    value: 'Next '
+  - key: stargrade
+    value: Star level
+  - key: firtinfo1
+    value: Players merge using candies.
+  - key: firtinfo2
+    value: Auto Merge avaliable.
+  - key: firtinfo3
+    value: 'Transform Ready: Merge Board to Attack Stage.'
+  - key: firtinfo4
+    value: Merge Fort attact bonus as same as normal fort.
+  - key: turretinfo1
+    value: Players merge using candies.
+  - key: turretinfo2
+    value: Auto Merge unavaliable.
+  - key: turretinfo3
+    value: Upgrade fort to increase physical damage.
+  - key: cakeinfo1
+    value: Coronation means more cakes.
+  - key: cakeinfo2
+    value: The maximum of cake amout is 10.
+  - key: fitratk
+    value: Merge Attack Attributes
+  - key: staratk
+    value: Star Attack Attributes
+  - key: atkdis
+    value: Attack distance
+  - key: atkint
+    value: Attack interval
+  - key: bulletspeed
+    value: Bullet speed
+  - key: atknum
+    value: Single Attact Range
+  - key: spepower
+    value: Super power
+  - key: atktalent
+    value: Attack Talent
+  - key: physical
+    value: Physical
+  - key: able1
+    value: Poison
+  - key: able2
+    value: Ice
+  - key: able3
+    value: Fire
+  - key: able4
+    value: Particle
+  - key: able5
+    value: Knock off
+  - key: able6
+    value: Hang up
+  - key: able0
+    value: None
+  - key: talent1
+    value: Poison Damage Continues
+  - key: talent2
+    value: Speed halved by ice damage.
+  - key: talent3
+    value: Defense halved by fire damage.
+  - key: talent4
+    value: 'Particle Cannon Damage: freeze and daze.'
+  - key: talent5
+    value: 'Egg Attack: freeze and daze.'
+  - key: talent6
+    value: Defense halved by electromagnetic.
+  - key: talent7
+    value: 'Flood: freeze and daze.'
+  - key: talent8
+    value: Speed halved by ice damage.
+  - key: talent9
+    value: Defense halved caused by stone wall.
+  - key: talent10
+    value: Speed halved by fire damage.
+  - key: talent11
+    value: 'Earthquake: freeze and daze.'
+  - key: talent12
+    value: Defense halved by electromagnetic.
+  - key: talent13
+    value: Speed halved by stone wall injury.
+  - key: talent14
+    value: Meteorites continue to damage.
+  - key: fixbtn
+    value: Confirm
+  - key: earlylock
+    value: Early unlock
+  - key: basedam
+    value: Basic damage
+  - key: adddame
+    value: Additional damage
+  - key: pawn
+    value: Pawn
+  - key: king
+    value: King
+  - key: baseatk
+    value: Basic attack attributes
+  - key: cool
+    value: Cool down
+  - key: bulletnum
+    value: Number of bullets
+  - key: rewarddiam
+    value: Reward Diamond
+  - key: rewardcandy
+    value: Reward candy
+  - key: passlevel
+    value: Pass the level
+  - key: totlestar
+    value: Total Star Level
+  - key: totlefirt
+    value: Total merge level
+  - key: totlediam
+    value: Obtained
+  - key: extlife
+    value: Exterminate life
+  - key: resis1
+    value: No resistance
+  - key: resis2
+    value: Antivirus
+  - key: resis3
+    value: Ice resistant
+  - key: resis4
+    value: Fire resistant
+  - key: resis5
+    value: Particle resistant
+  - key: dailypack
+    value: Daily package
+  - key: draw
+    value: Receive
+  - key: sound
+    value: Sound effects
+  - key: music
+    value: Music
+  - key: opening
+    value: Opening
+  - key: closing
+    value: Closing
+  - key: mergedelay
+    value: Merge delay
+  - key: incera
+    value: Increased income
+  - key: incatk
+    value: Increased attacks
+  - key: earinfo
+    value: '* Each time auto merge lasts for 1 hour.'
+  - key: atkinfo
+    value: '* Players gain 10 attack bonus by watching each ad.'
+  - key: meargeinfo
+    value: '* The player can get 3 times the candy by watching each ad.'
+  - key: bankinfo
+    value: '* The amount of candies in piggy bank is as much as while attacting animals.'
+  - key: vipinfo
+    value: '* With the purchase, diamond amounts from attendance gift center upgrades
+      to 10. 100,000 candies maximum daily.'
+  - key: resbuy
+    value: Resume purchase
+  - key: adsdraw
+    value: Watch an ad.
+  - key: adsakill
+    value: A chance to use the skill once after an ad.
+  - key: addakill
+    value: Times to use this skill
+  - key: diamboot
+    value: Diamond Tour
+  - key: goto
+    value: Direct to
+  - key: freefit
+    value: Free merge
+  - key: freeskill
+    value: Free skills
+  - key: efftime
+    value: Effect duration
+  - key: cooltime
+    value: Cooldown countdown
+  - key: adsinfo1_1
+    value: 'Normal Attack Increase: Each unit attacks +5.'
+  - key: adsinfo1_2
+    value: 'VIP attack increase: Each unit attacks +10.'
+  - key: adsinfo2_1
+    value: 'Double normal income:  double candy amount'
+  - key: adsinfo2_2
+    value: 'VIP income growth: +2 times candy.'
+  - key: adsinfo3_1
+    value: 'Normal auto merge: 10 minutes.'
+  - key: adsinfo3_2
+    value: 'VIP auto merge: 1 hour.'
+  - key: adsinfo4
+    value: The higher you reach the level, the more candies you get from the ads.
+  - key: adsinfo5
+    value: Each ad equals to one skill usage.
+  - key: tip1
+    value: Requirements unsatisfied
+  - key: tip2
+    value: Unlocked successfully
+  - key: tip3
+    value: Get one skill use
+  - key: tip4
+    value: No network connection
+  - key: tip5
+    value: Please unlock the previous one first
+  - key: tip6
+    value: There are currently no ads to play
+  - key: tip7
+    value: Check in to receive diamonds successfully
+  - key: tip8
+    value: Unlock failed
+  - key: tip9
+    value: Undeletable
+  - key: tip10
+    value: 'Not queit the time '
+  - key: tip11
+    value: Insufficient candy amount
+  - key: tip12
+    value: Skill cooling
+  - key: tip13
+    value: Received today
+  - key: tip14
+    value: Auto merge
+  - key: tip15
+    value: Not unlocked
+  - key: click
+    value: Click panel to skip
+  - key: guidename1
+    value: Food Island
+  - key: guidename2
+    value: Produce
+  - key: guidename3
+    value: Merge
+  - key: guidename6
+    value: Use skills
+  - key: guidename7
+    value: Destroy candy
+  - key: guidename8
+    value: Skill Desk
+  - key: guidename12
+    value: Animal resistance
+  - key: guidename13
+    value: Turret panel
+  - key: guidename14
+    value: Task panel
+  - key: guidename15
+    value: Skill panel
+  - key: guidename16
+    value: stage selection
+  - key: guidename17
+    value: Ad Diamond
+  - key: guideinfo1_1
+    value: There is a gourmet island deep under the sea. The Big Eye Village on the
+      island is the home to the Candy Brothers who make cakes.
+  - key: guideinfo1_2
+    value: The aroma of the cake drifted to the animal village on the island. The
+      duck who smelled the aroma came to steal the cake.
+  - key: guideinfo1_4
+    value: Ducks brought a large army of animals!
+  - key: guideinfo1_5
+    value: Please protect the cake.
+  - key: guideinfo1_6
+    value: Big eye candy!
+  - key: guideinfo1_7
+    value: Start fighting!
+  - key: guideinfo2_1
+    value: Click button
+  - key: guideinfo2_2
+    value: Produce candy cannons
+  - key: guideinfo3_1
+    value: Drag candy cannons with the same number
+  - key: guideinfo3_2
+    value: Merge to produce a more advanced candy cannon.
+  - key: guideinfo4_1
+    value: By clicking the candies and the designated location candies, or dragging
+      the candies, the same candies can merge into a more advanced candy shooter.
+  - key: guideinfo5_1
+    value: Click the auto merge button in the upper right corner of the battlefield,
+      and the candy on the synthesis table does not need to be manually merged.
+  - key: guideinfo5_2
+    value: 'Normal auto merge: 10 minutes.'
+  - key: guideinfo5_3
+    value: 'VIP auto merge: 1 hour.'
+  - key: guideinfo6_1
+    value: Click on the skill avatar to use the skill.
+  - key: guideinfo6_2
+    value: The number of free skills will be displayed.
+  - key: guideinfo6_3
+    value: When there is no quantity, use skills to consume candy.
+  - key: guideinfo7_1
+    value: By clicking the candies and the designated location candies, or dragging
+      the candies, the same candies can merge into a more advanced candy shooter.
+  - key: guideinfo8_1
+    value: There is a skill desk on the lower left corner. When the number becomes
+      0, a skill bear will appear. Players can get a skill prop by buying or watching
+      advertisements by clicking the skill bear in the panel.
+  - key: guideinfo9_1
+    value: When the player lacks candy, click the candy button on the lower right
+      corner of the battlefield to get free candy. The number of candy is related
+      to the number of levels reached by the player.
+  - key: guideinfo10_1
+    value: If the battle is unsuccessful, click the button to increase the attack
+      and increase the attack power of the candy cannon!
+  - key: guideinfo10_2
+    value: 'Normal attack increase: Attack +5.'
+  - key: guideinfo10_3
+    value: 'VIP attack increase: Attack +10.'
+  - key: guideinfo11_1
+    value: When you lack candies, click on the button will double your incomes and
+      the candy amounts on the battlefield!
+  - key: guideinfo11_2
+    value: Normal income doubles
+  - key: guideinfo11_3
+    value: VIP income triples
+  - key: guideinfo12_1
+    value: Pay attention on the icon above the animal's head. Certain colors represent
+      resistance to certain attacks.
+  - key: guideinfo13_1
+    value: Coronation can unlock more merge boards, forts, candy cannons, and life
+      cakes.
+  - key: guideinfo13_2
+    value: For detailed information, you can view the specific functions of this unit.
+  - key: guideinfo14_1
+    value: Players can click on the avatar of a single mission to view the mission
+      requirements and reward descriptions.
+  - key: guideinfo14_2
+    value: Players can also receive all current rewards with one click.
+  - key: guideinfo15_1
+    value: Players can unlock skills through the unlock button and early unlock button.
+  - key: guideinfo15_2
+    value: Coronation skills can increase the attack power of skills.
+  - key: guideinfo15_3
+    value: For detailed information, you can view the specific functions of this unit.
+  - key: guideinfo16_1
+    value: Players can choose any unlocked stage to fight.
+  - key: guideinfo16_2
+    value: Player earns one star by passing each stage
+  - key: guideinfo16_3
+    value: Earn one heart by passing without losing hp
+  - key: guideinfo17_1
+    value: Players watch all the incentive ads in the battlefield, and each will have
+      a progress bar to get diamonds. When the progress bar is full, players can get
+      5 diamonds.
+  - key: getrew
+    value: Get a reward
+  - key: adsget
+    value: Get a reward after each 5 ads
+  - key: get
+    value: Acquaire
+  - key: system1
+    value: System notification
+  - key: system2
+    value: This is a high-level turret, confirmed to destroy.
+  - key: cancel
+    value: Cancel
+  - key: today
+    value: Received today
+  - key: alllock
+    value: All unlocked
+  - key: allcon
+    value: Convert all
+  - key: upgrade
+    value: Upgrade
+  - key: alldraw
+    value: Acquaire all
+  - key: resInfo
+    value: Click "confirm" to restore un-consumed items to download again for free.
+  - key: addadmin
+    value: Diamond increase
+  - key: adminbuy
+    value: '* Players will get 10 diamonds after every 5 ads.'
+  - key: guidename18
+    value: Unlock hint
+  - key: guideinfo18_1
+    value: Level unlock is avaliable with the next unit.
+  - key: guideinfo18_2
+    value: Unlock level for the next unit
+  - key: require
+    value: Require
+  - key: qqgroup
+    value: QQ official group
+  - key: email
+    value: Email:su1980@126.com
+  - key: injury
+    value: Damage
+  - key: vipsign
+    value: Vipsign
+  - key: build
+    value: Build
+  - key: gift
+    value: Gift
+  - key: reset
+    value: Reset
+  - key: regret
+    value: Regret
+  - key: share
+    value: Share
+  - key: batter
+    value: Batter
+  - key: sceneoper
+    value: Sceneoper
+  - key: animaloper
+    value: Animaloper
+  - key: restore
+    value: Restore
+  - key: freed
+    value: Release
+  - key: deathsnum
+    value: Deathsnum
+  - key: animalsum
+    value: Animalsum
+  - key: possesum
+    value: Possesum
+  - key: packagegift
+    value: Packagegift
+  - key: nextgift
+    value: Nextgift
+  - key: getgift
+    value: Getgift
+  - key: finishgift
+    value: Finishgift
+  - key: nextrequ
+    value: Nextrequ
+  - key: buildguide1
+    value: You can click the release button to build a building!
+  - key: buildguide2
+    value: You can click the regret button to retrieve the animal!
+  - key: buildguide3
+    value: You can double-click the animal in the scene to retrieve the animal!
+  - key: buildguide4
+    value: You can drag and rotate the animal, and switch by clicking the animaloper
+      button.
+  - key: buildguide5
+    value: You can drag and rotate the scene, and switch through the sceneoper button.
+  - key: buildguide6
+    value: You can click the restore button to revive dead animals.
+  - key: buildguide7
+    value: You can click the reset button to rebuild the building.
+  - key: tip16
+    value: Construction will resume.
+  - key: tip17
+    value: You can resurrect animals that died before. The upper limit is 10 at random.
+  - key: recording
+    value: Recording
+  - key: thistime
+    value: Thistime
+  - key: Drag
+    value: Drag
+  - key: Spin
+    value: Spin
+  - key: buildguide5_1
+    value: You can also zoom in and out of the scene with both hands.Hands pointing
+      outwards slide the lens forward.Point your hands inwards and slide the lens
+      back.
+  - key: buildguide8
+    value: You can click the mode button, click inside the treasure button, to build
+      a building, earn diamonds!
+  - key: buildAnimal
+    value: BuildAnimal
+  - key: wordta
+    value: Tower
+  - key: fitfire
+    value: Battle
+  - key: freediam
+    value: Free
+  - key: tip18
+    value: Click on the avatar to buy the animal.
+  - key: tip19
+    value: Players who consume advertising coins can exchange them for other resources
+      and functions.
+  - key: buyanimal
+    value: Buyanimals
+  - key: autogrow
+    value: Automaticproduction
+  - key: taskname24
+    value: Stunning cat
+  - key: taskname25
+    value: Sharp pig
+  - key: taskname26
+    value: Panda Super
+  - key: taskname27
+    value: Arctic Overlord
+  - key: taskname28
+    value: Boar Sho
+  - key: taskname29
+    value: Togo Taro
+  - key: taskname30
+    value: Brother Frog
+  - key: taskname31
+    value: Cow Dad
+  - key: taskname32
+    value: Donkey fairy
+  - key: taskname33
+    value: General Penguin
+  - key: taskname34
+    value: Uncle Kiwi
+  - key: taskname35
+    value: Crow Seba
+  - key: taskname36
+    value: Mouse Lord
+  - key: taskname37
+    value: Elk Old Thief
+  - key: taskname38
+    value: Grandpa Tortoise
+  - key: taskname39
+    value: Snow Leopard
+  - key: taskname40
+    value: Raccoon Kid
+  - key: taskname41
+    value: Tiger Prince
+  - key: taskname42
+    value: Sheep Neil
+  - key: taskname43
+    value: Rabbit girl
+  - key: taskname44
+    value: Lion Johnny
+  - key: taskname45
+    value: Jack Cub
+  - key: Treasure
+    value: Treasure
+  - key: buildguide9
+    value: Every time the high mission record is refreshed, new treasures will be
+      generated, animal birth points will be moved, and many diamonds will be obtained
+      by collision.
+  - key: initInfo
+    value: Hang up mode, time mode, world tower can get more diamonds.
+  - key: tipmove
+    value: Move here
+  - key: Zoomscene
+    value: Zoom scene
+  - key: gocenter
+    value: Back to center
+  - key: inturret
+    value: In production
+  - key: stopturret
+    value: Stop producing
+  - key: turretTip
+    value: Keep at least one class.
+  - key: instate
+    value: Manufacturing state
+  - key: tip20
+    value: If you don't need to continue producing this candy, click the "Production"
+      button of the candy on the turret panel to stop production.
+  - key: tip21
+    value: Choose whether to produce the current candy cannon
+  - key: activitytip
+    value: 'Activity: Buy diamonds in-house now to get double resources.'
+  - key: taskname5
+    value: TimePattern
+  - key: totletime
+    value: Survival time
+  - key: tip22
+    value: The enemy enters a violent state! It's time to test your ability to deploy
+      an array!
+  - key: tip23
+    value: Test how long you can survive! There are many diamond rewards in time mode!
+  - key: tip24
+    value: Come on
+  - key: pattern
+    value: Mode
+  - key: time
+    value: Time
+  - key: hunt
+    value: Treasure hunt
+  - key: tip25
+    value: If you like this game, please go to praise, will reward diamonds!
+  - key: goEvalue
+    value: To evaluate
+  - key: freeitem
+    value: Free props
+  - key: passmode
+    value: Level mode
+  - key: huntmode
+    value: Treasure mode
+  - key: selecttime
+    value: Selection period
+  - key: timetip1
+    value: Recording time goes back 30 seconds
+  - key: star
+    value: Start
+  - key: toplay
+    value: Replay
+  - key: skillrealname11
+    value: Red wind
+  - key: skillrealname12
+    value: Ice world
+  - key: skillrealname13
+    value: "Sea of \u200B\u200Bfire"
+  - key: skillrealname14
+    value: Landslide
+  - key: skillrealname15
+    value: Gold leaf
+  - key: skillrealname16
+    value: War snake
+  - key: skillrealname17
+    value: Cookie man
+  - key: skillrealname18
+    value: Rolling candy
+  - key: skillrealname19
+    value: Little bear
+  - key: skillrealname20
+    value: Snowman
+  - key: skillipname11
+    value: carat
+  - key: skillipname12
+    value: Matt
+  - key: skillipname13
+    value: Natra
+  - key: skillipname14
+    value: Sammy
+  - key: skillipname15
+    value: Poroni
+  - key: skillipname16
+    value: Barbie
+  - key: skillipname17
+    value: Melissa
+  - key: skillipname18
+    value: Follett
+  - key: skillipname19
+    value: Chuer
+  - key: skillipname20
+    value: Pesti
+  - key: turretrealname6
+    value: Egg cannon
+  - key: turretrealname7
+    value: Frozen sugar
+  - key: turretrealname8
+    value: Magic gem
+  - key: turretrealname9
+    value: Electromagnetic candy
+  - key: turretrealname10
+    value: Frozen planet
+  - key: turretrealname11
+    value: Shek Pik Candy
+  - key: turretrealname12
+    value: Magnet candy
+  - key: turretrealname13
+    value: Holy ring
+  - key: turretrealname14
+    value: Sun
+  - key: turretrealname15
+    value: Ice cone
+  - key: turretrealname16
+    value: Cluster bomb
+  - key: turretrealname17
+    value: Moon
+  - key: turretrealname18
+    value: Laser wall
+  - key: turretrealname19
+    value: Snowflake
+  - key: turretrealname20
+    value: Gasoline bottle
+  - key: turretrealname21
+    value: Rocket
+  - key: turretipname6
+    value: Lger
+  - key: turretipname7
+    value: White
+  - key: turretipname8
+    value: Reid
+  - key: turretipname9
+    value: Berry
+  - key: turretipname10
+    value: Carter
+  - key: turretipname11
+    value: Rand
+  - key: turretipname12
+    value: Buster
+  - key: turretipname13
+    value: Cui Li
+  - key: turretipname14
+    value: Kraft
+  - key: turretipname15
+    value: Carranver
+  - key: turretipname16
+    value: Timmy
+  - key: turretipname17
+    value: Tofel
+  - key: turretipname18
+    value: Cui Mier
+  - key: turretipname19
+    value: Pintel
+  - key: turretipname20
+    value: Burt
+  - key: turretipname21
+    value: Pepper
+  - key: talent15
+    value: Physical continuous damage.
+  - key: talent16
+    value: Ice damage reduces movement speed by 70%.
+  - key: talent17
+    value: Burns continue to hurt.
+  - key: talent18
+    value: Electromagnetic injury defense is halved.
+  - key: talent19
+    value: Ice damage reduces movement speed by 70%.
+  - key: talent20
+    value: Physical damage to the enemy is stunned.
+  - key: talent21
+    value: The enemy cannot shoot.
+  - key: talent22
+    value: Physical attack power is halved.
+  - key: talent23
+    value: Burns continue to hurt.
+  - key: talent24
+    value: Frozen in place.
+  - key: talent25
+    value: The burn was stunned on the spot.
+  - key: talent26
+    value: Ice damage reduces movement speed by half.
+  - key: talent27
+    value: Particle injury vertigo.
+  - key: talent28
+    value: Frozen in place.
+  - key: talent29
+    value: Burns continue to hurt.
+  - key: talent30
+    value: Burns continue to hurt.
+  - key: talent31
+    value: Defensive failure.
+  - key: talent32
+    value: Frozen in place.
+  - key: talent33
+    value: The physical attack power is reduced, and the minion 1/Boss50.
+  - key: talent34
+    value: Movement speed is reduced by 70%.
+  - key: talent35
+    value: Base blood volume is reduced by 30%.
+  - key: talent36
+    value: Turret attack doubled.
+  - key: talent37
+    value: Particles continue to damage every second, minions 10%/Boss5%.
+  - key: talent38
+    value: The enemy cannot shoot.
+  - key: talent39
+    value: The remaining HP is reduced, and the creeps are 100%/Boss 30%.
+  - key: talent40
+    value: Restore the cake to life.
+  - key: hookmode
+    value: On-hook mode
+  - key: routemode
+    value: Route mode
+  - key: carry
+    value: Carry
+  - key: unload
+    value: Unload
+  - key: gowar
+    value: Go to war
+  - key: battletask
+    value: Battlefield mission
+  - key: wave
+    value: Wave
+  - key: paused
+    value: Paused
+  - key: dropout
+    value: Drop out
+  - key: playagain
+    value: Play again
+  - key: onplay
+    value: Carry on
+  - key: Congratulations
+    value: Congratulations
+  - key: hangup
+    value: Hang up
+  - key: route
+    value: Route
+  - key: selectres
+    value: Select resources
+  - key: use
+    value: Use
+  - key: announcement
+    value: Announcement
+  - key: version
+    value: Version
+  - key: dragmove
+    value: Drag/click
+  - key: tip26
+    value: By clicking the candies and specifying the location, or dragging the candies,
+      put the candy shooter on the shooting platform to prevent the animals from coming
+      to eat the cake.
+  - key: modecontent
+    value: Mode content
+  - key: modeinfo1
+    value: Route mode through the animal world.
+  - key: modeinfo2
+    value: The on-hook mode earns a lot of resources.
+  - key: modeinfo3
+    value: Time mode challenges massive animals.
+  - key: modeinfo4
+    value: Treasure hunt mode to find treasures of diamonds.
+  - key: tip27
+    value: Click on the battlefield.
+  - key: tip28
+    value: Click to bring to the battlefield.
+  - key: tip29
+    value: Please place at least one unit.
+  - key: routetask1
+    value: Battlefield clearing candy over
+  - key: routetask2
+    value: Use skills no more than
+  - key: routetask3
+    value: Skills can only bring the following units to pass the level
+  - key: routetask4
+    value: The shooter can only bring the following units to pass the level
+  - key: routetask5
+    value: Fastest clearance time
+  - key: routetask6
+    value: Clear the level without using skills.
+  - key: routetask7
+    value: Only use 1 type of shooting unit to pass the level.
+  - key: routetask8
+    value: Only use the number of turrets
+  - key: routetask9
+    value: Passed with full blood.
+  - key: versioninfo1
+    value: 'New additions: route mode, integrated gameplay, plus layout route. 180-level
+      route map, 21 types of candy shooters, 20 types of candy warlock skills. Exercise
+      your brain to the limit of thinking in battle, and react quickly in wartime
+      with the unity of heart and hands.'
+  - key: versioninfo2
+    value: 'New content: Time mode. There are many and fierce enemies in this level.
+      You will feel extremely exciting when you play this mode from your own record.
+      In addition, this mode is rich in diamond rewards and candy rewards.'
+  - key: versioninfo3
+    value: 'New content: Treasure hunt mode, players receive animal rewards in missions,
+      place animals in the world tower, build higher towers, and find diamond treasures
+      scattered around at higher points. Move to find treasures and upgrade your combat
+      effectiveness.'
+  - key: versioninfo4
+    value: 'Content: On-hook mode, casual gameplay combined combat, easily deal with
+      enemies, and earn massive candies.'
+  - key: newrecord
+    value: New record
+  - key: recordfailed
+    value: Challenge record failed
+  - key: reward
+    value: Reward
+  - key: tip30
+    value: The maximum number has been carried.
+  - key: enemypreview
+    value: Enemy Preview
+  - key: sele
+    value: Select
+  - key: tip31
+    value: Play other modes, get resources, and prompt combat power.
+  - key: talent
+    value: Talent
+  - key: tip32
+    value: Route mode attack range
+  - key: sky
+    value: Sky
+  - key: ground
+    value: Ground
+  - key: simple
+    value: Simple
+  - key: ordinary
+    value: Ordinary
+  - key: difficult
+    value: Difficult
+  - key: tip33
+    value: Click on the hook mode to earn more resources.
+  - key: Unlocked
+    value: Unlocked
+  - key: lockroude1
+    value: 5 simple unlock conditions
+  - key: lockroude2
+    value: 'Unlocking conditions: Normal 5 levels'
+  - key: tiproude1
+    value: 'Tip: Wave interval is 5s. Animals are not attacked by bullets.'
+  - key: tiproude2
+    value: 'Tip: Wave interval is 3s. Animals have bullet attacks, 1.25 times the
+      number.1.2 times the moving speed.'
+  - key: tiproude3
+    value: 'Tip: Wave interval is 1s. Animals have twice the body and bullet attack,
+      and twice the number. 1.5 times the moving speed.'
+  - key: firtinfo5
+    value: The on-hook mode is valid.
+  - key: hall
+    value: Hall
+  - key: lastHp
+    value: Remaining blood
+  - key: stardem
+    value: StarDemand
+  - key: lockdem
+    value: UnlockDemand
+  - key: earlydem
+    value: Unlock the demand early
+  - key: buydem
+    value: Purchasing needs
+  - key: guideinfo1
+    value: Drag the Candy Shooter to the turret.
+  - key: guideinfo2
+    value: Click on the candy shooter on the fittable.
+  - key: guideinfo3
+    value: Click the empty turret.
+  - key: guideinfo4
+    value: Replace the low-level shooter on the turret.
+  - key: back
+    value: Return
+  - key: timeout
+    value: TimeOut
+  - key: bullet
+    value: Shoot
+  - key: hit
+    value: Hit
+  - key: rise
+    value: resurrection
+  - key: risetip
+    value: Watching the advertisement can be resurrected, add 50% HP, and 100 points
+      on the line.
+  - key: tiproude4
+    value: Click the skill button at the bottom to release the skill.
+  - key: teacpass
+    value: try
+  - key: or
+    value: or
+  - key: tip34
+    value: Consume 1 diamond to resurrect.
+  - key: versioninfo5
+    value: Numerical optimization and functional experience optimization. Remove BUG.
+  - key: advertise
+    value: Ads

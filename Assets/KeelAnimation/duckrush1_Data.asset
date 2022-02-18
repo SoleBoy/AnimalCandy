@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: duckrush1_Data
+  m_EditorClassIdentifier: 
+  dataName: duckrush1
+  dragonBonesJSON: {fileID: 4900000, guid: 1d220864f6795df4185b8742235dba55, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 456e5fe2716645f48a5c09808086367b, type: 3}
+    texture: {fileID: 2800000, guid: b08b9e67ed217364abd75bdb7d244c89, type: 3}
+    material: {fileID: 2100000, guid: dbaccf04180c6ec4d8954ebfed4dfe8c, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 444a52880949191489e2702a823a635e, type: 2}

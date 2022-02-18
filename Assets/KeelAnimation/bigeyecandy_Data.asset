@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: bigeyecandy_Data
+  m_EditorClassIdentifier: 
+  dataName: bigeyecandy
+  dragonBonesJSON: {fileID: 4900000, guid: d49d225a89ec0ea47b039cd2940919eb, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: c0f6ca69c5a5c224181b74e206e3edf8, type: 3}
+    texture: {fileID: 2800000, guid: 1bd1518b5b4521e4d9cfe11b06767b19, type: 3}
+    material: {fileID: 2100000, guid: 2ec1f82c706027c44b097cd5857b4e04, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 036c3a5e75509374f83740bceb3af2ed, type: 2}

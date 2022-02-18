@@ -1,0 +1,1244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f12588e2dab8341bd6f6f84c9b070d, type: 3}
+  m_Name: package_kor
+  m_EditorClassIdentifier: 
+  items:
+  - key: gamename
+    value: "\uB3D9\uBB3C\uCE94\uB514"
+  - key: pass
+    value: STAGE
+  - key: turret
+    value: "\uD3EC\uD0D1"
+  - key: skill
+    value: "\uC2A4\uD0AC"
+  - key: task
+    value: "\uBBF8\uC158"
+  - key: attack
+    value: "\uACF5\uACA9"
+  - key: income
+    value: "\uC218\uC775"
+  - key: candy
+    value: "\uBB34\uB8CC\uCE94\uB514"
+  - key: more
+    value: "\uB354.."
+  - key: auto
+    value: "\uC790\uB3D9\uD569\uCCB4"
+  - key: bank
+    value: "\uC800\uAE08\uD1B5"
+  - key: rank
+    value: "\uB7AD\uD0B9"
+  - key: appraisal
+    value: "\uD3C9\uAC00"
+  - key: lang
+    value: "\uC5B8\uC5B4"
+  - key: sign
+    value: "\uCD9C\uC11D\uCCB4\uD06C"
+  - key: set
+    value: "\uC124\uC815"
+  - key: game
+    value: "\uAC8C\uC784"
+  - key: help
+    value: "\uB3C4\uC6C0"
+  - key: store
+    value: "\uC2A4\uD1A0\uC5B4"
+  - key: skillrealname1
+    value: "\uACC4\uB780"
+  - key: skillrealname2
+    value: "\uB808\uC774\uC800"
+  - key: skillrealname3
+    value: "\uD64D\uC218"
+  - key: skillrealname4
+    value: "\uB208\uC0AC\uD0DC"
+  - key: skillrealname5
+    value: "\uC11D\uBCBD"
+  - key: skillrealname6
+    value: "\uC6A9\uC554"
+  - key: skillrealname7
+    value: "\uC9C0\uC9C4"
+  - key: skillrealname8
+    value: "\uC804\uC790"
+  - key: skillrealname9
+    value: "\uCCA0\uAD6C"
+  - key: skillrealname10
+    value: "\uC6B4\uC11D"
+  - key: skillipname1
+    value: "\uB9C8\uB974\uCF54"
+  - key: skillipname2
+    value: "\uBC14\uB2D0\uB77C"
+  - key: skillipname3
+    value: "\uCF54\uCF54\uB11B"
+  - key: skillipname4
+    value: "\uD53C\uB098 \uD2B8"
+  - key: skillipname5
+    value: "\uBCF4\uBCF4"
+  - key: skillipname6
+    value: "\uAE38\uC870"
+  - key: skillipname7
+    value: "\uC640\uD2B8"
+  - key: skillipname8
+    value: "\uB9D0\uB9B0 \uC528\uC557"
+  - key: skillipname9
+    value: Berwini
+  - key: skillipname10
+    value: "\uBBF8\uD14C"
+  - key: turretrealname1
+    value: "\uBA38\uC2E0\uAC74"
+  - key: turretrealname2
+    value: "\uB3C5\uAD6C\uCD1D"
+  - key: turretrealname3
+    value: "\uC544\uC774\uC2A4\uAC74"
+  - key: turretrealname4
+    value: "\uC790\uD654\uD3EC"
+  - key: turretrealname5
+    value: "\uC785\uC790\uD3EC"
+  - key: turretipname1
+    value: Origi
+  - key: turretipname2
+    value: Vettel
+  - key: turretipname3
+    value: Krista
+  - key: turretipname4
+    value: "\uC2A4\uD14C\uC774\uD50C"
+  - key: turretipname5
+    value: "\uC15C\uB9AC"
+  - key: fitrealname
+    value: "\uD569\uCCB4\uB300"
+  - key: fortrealname
+    value: "\uD3EC\uB300"
+  - key: cakerealname
+    value: "\uC0DD\uBA85"
+  - key: fitipname
+    value: "\uB9D0\uCC28\uCF00\uC774\uD06C"
+  - key: fortipname
+    value: "\uBE14\uB8E8\uBCA0\uB9AC\uCF00\uC774\uD06C"
+  - key: cakeipname
+    value: "\uCE58\uC988\uCF00\uC774\uD06C"
+  - key: taskname0
+    value: CLEAR
+  - key: taskname1
+    value: "\uBBF8\uC158\uBCC4"
+  - key: taskname2
+    value: "\uC2B9\uAE09"
+  - key: taskname3
+    value: "\uD569\uCCB4"
+  - key: taskname4
+    value: "\uBCF4\uC11D"
+  - key: taskname6
+    value: "\uC624\uB9AC \uBCF4\uBB3C"
+  - key: taskname7
+    value: "\uB77C\uC774\uD478\uB514"
+  - key: taskname8
+    value: "\uD478\uB978 \uB3C4\uB9C8\uBC40"
+  - key: taskname9
+    value: "\uB2E4\uB78C\uC950 \uC18C\uB140"
+  - key: taskname10
+    value: "\uBC30\uD2B8\uB9E8"
+  - key: taskname11
+    value: "\uB3C5\uC218\uB9AC \uACBD"
+  - key: taskname12
+    value: "\uC878\uB9B0 \uC544\uAE30"
+  - key: taskname13
+    value: "\uBB3C\uAC1C \uAD70\uC778"
+  - key: taskname14
+    value: "\uC655\uCC28\uC774 \uD615\uC81C"
+  - key: taskname15
+    value: "\uC0BC\uCD0C \uBC14\uBCF4 \uB291\uB300"
+  - key: taskname16
+    value: "\uD654\uB09C \uACF0"
+  - key: taskname17
+    value: "\uAD50\uD65C\uD55C \uC5EC\uC6B0"
+  - key: taskname18
+    value: "\uD30C\uB791\uC0C8 \uC9C0\uBBF8"
+  - key: taskname19
+    value: "\uC57C\uC0DD \uAC1C\uCF54\uC6D0\uC22D\uC774"
+  - key: taskname20
+    value: "\uC62C\uBE7C\uBBF8 \uC18C\uB140"
+  - key: taskname21
+    value: "\uC2A4\uB178\uC6B0 \uBAAC\uC2A4\uD130"
+  - key: taskname22
+    value: "\uD558\uB9C8 \uC774\uBAA8"
+  - key: taskname23
+    value: "\uB808\uB4DC \uB4DC\uB798\uACE4 \uD0B9"
+  - key: fail
+    value: "\uC2E4\uD328\uC548\uB0B4"
+  - key: atkgrow
+    value: "\uACF5\uACA9\uBC84\uD504"
+  - key: eardouble
+    value: "\uC218\uC775\uB354\uBE14"
+  - key: takecandy
+    value: "\uCE94\uB514\uD68D\uB4DD"
+  - key: takediam
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC\uD68D\uB4DD"
+  - key: goupstar
+    value: "\uC2B9\uAE09\uD558\uB7EC\uAC00\uB2E4"
+  - key: daily
+    value: "\uB370\uC77C\uB9AC"
+  - key: upstar
+    value: "\uC2B9\uAE09"
+  - key: map
+    value: "\uC9C0\uB3C4"
+  - key: infobtn
+    value: "\uB514\uD14C\uC77C"
+  - key: buy
+    value: "\uAD6C\uB9E4"
+  - key: turn
+    value: "\uC804\uD658"
+  - key: have
+    value: "\uC18C\uC720"
+  - key: desk
+    value: "\uB300"
+  - key: cur
+    value: "\uD604\uC7AC"
+  - key: addatk
+    value: "\uCD94\uAC00\uACF5\uACA9"
+  - key: grade
+    value: "\uB808\uBCA8"
+  - key: life
+    value: "\uCD1D\uC0DD\uBA85"
+  - key: pc
+    value: "\uAC1C"
+  - key: lock
+    value: "\uD574\uC81C\uD558\uB2E4"
+  - key: firtdam
+    value: "\uD569\uCCB4\uB370\uBBF8\uC9C0"
+  - key: stardam
+    value: "\uC2B9\uAE09\uB370\uBBF8\uC9C0"
+  - key: nextgrade
+    value: "\uB2E4\uC74C \uB808\uBCA8"
+  - key: stargrade
+    value: "\uC2B9\uAE09\uB808\uBCA8"
+  - key: firtinfo1
+    value: "\uC720\uC800\uB294 \uCE94\uB514\uB97C \uCEE8\uD2B8\uB864\uD558\uC5EC \uD569\uCCB4\uD560\uC218\uC788\uC2B5\uB2C8\uB2E4 "
+  - key: firtinfo2
+    value: "\uC2A4\uD14C\uC774\uC9C0\uC704 \uCE94\uB514\uB294 \uC790\uB3D9\uD569\uCCB4\uD560\uC218\uC788\uB2E4"
+  - key: firtinfo3
+    value: "\uD569\uCCB4\uB300\uB294 \uACF5\uACA9\uB300\uB85C \uC804\uD658\uD560\uC218\uC788\uB2E4"
+  - key: firtinfo4
+    value: "\uD569\uCCB4\uB300\uC5D0\uC11C \uD3EC\uB300\uB85C \uC804\uD658\uD55C \uCD94\uAC00\uACF5\uACA9\uC740
+      \uC77C\uBC18 \uD3EC\uB300 \uACF5\uACA9\uC774\uB791 \uAC19\uC2B5\uB2C8\uB2E4 "
+  - key: turretinfo1
+    value: "\uC720\uC800\uB294 \uCE94\uB514\uB97C \uCEE8\uD2B8\uB864\uD558\uC5EC \uD569\uCCB4\uD560\uC218
+      \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: turretinfo2
+    value: "\uB370\uC2A4\uD06C\uC758 \uCE94\uB514\uB294 \uC790\uB3D9\uC73C\uB85C \uD569\uCCB4\uD560\uC218
+      \uC5C6\uC2B5\uB2C8\uB2E4"
+  - key: turretinfo3
+    value: "\uD3EC\uB300 \uC5C5\uADF8\uB808\uC774\uB4DC\uB294 \uBB3C\uB9AC\uB370\uBBF8\uC9C0\uB97C
+      \uC99D\uAC00\uD569\uB2C8\uB2E4 "
+  - key: cakeinfo1
+    value: "\uC720\uC800\uB294 \uC2B9\uAE09\uC73C\uB85C \uB354\uB9CE\uC740 \uCF00\uC775\uC744
+      \uD68D\uB4DD\uD560\uC218 \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: cakeinfo2
+    value: "\uCF00\uC774\uD06C\uB97C \uCD5C\uB300 10\uAC1C \uAC00\uC9C8\uC218\uC788\uB2E4"
+  - key: fitratk
+    value: "\uD569\uCCB4\uACF5\uACA9\uC18D\uC131"
+  - key: staratk
+    value: "\uC2B9\uAE09\uACF5\uACA9\uC18D\uC131"
+  - key: atkdis
+    value: "\uACF5\uACA9\uAC70\uB9AC"
+  - key: atkint
+    value: "\uACF5\uACA9\uAC04\uACA9"
+  - key: bulletspeed
+    value: "\uD0C4\uC57D\uC2A4\uD53C\uB4DC"
+  - key: atknum
+    value: "\uC77C\uD68C\uACF5\uACA9\uC778\uC218"
+  - key: spepower
+    value: "\uC2A4\uD398\uC15C\uD30C\uC6CC"
+  - key: atktalent
+    value: "\uACF5\uACA9\uCC9C\uBD80"
+  - key: physical
+    value: "\uBB3C\uB9AC"
+  - key: able1
+    value: "\uB3C5"
+  - key: able2
+    value: "\uC5BC\uC74C"
+  - key: able3
+    value: "\uBD88"
+  - key: able4
+    value: "\uC785\uC790"
+  - key: able5
+    value: "\uACA9\uD30C \uB0A0\uB9AC\uB2E4"
+  - key: able6
+    value: "\uB04A\uB2E4"
+  - key: able0
+    value: "\uBB34"
+  - key: talent1
+    value: "\uC911\uB3C5\uC9C0\uC18D\uB370\uBBF8\uC9C0"
+  - key: talent2
+    value: "\uC544\uC774\uC2A4\uB370\uBBF8\uC9C0\uB294 \uC774\uB3D9\uC18D\uB3C4\uB97C
+      \uC808\uBC18 \uAC10\uC18C\uC2DC\uD0A8\uB2E4"
+  - key: talent3
+    value: "\uD654\uC5FC\uB370\uBBF8\uC9C0\uB294 \uBC29\uC5B4\uB825\uC744 \uC808\uBC18
+      \uAC10\uC18C\uC2DC\uD0A8\uB2E4 "
+  - key: talent4
+    value: "\uC785\uC790\uB370\uBBF8\uC9C0\uB294 \uC81C\uC790\uB9AC \uAE30\uC808\uC774
+      \uC0DD\uAE34\uB2E4 "
+  - key: talent5
+    value: "\uACC4\uB780\uB9DE\uC74C\uC740 \uC81C\uC790\uB9AC \uAE30\uC808\uC774 \uC0DD\uAE34\uB2E4 "
+  - key: talent6
+    value: "\uC804\uAE30\uB370\uBBF8\uC9C0\uB294 \uBC29\uC5B4\uB825\uC744 \uC808\uBC18
+      \uAC10\uC18C\uC2DC\uD0A8\uB2E4 "
+  - key: talent7
+    value: "\uBB3C\uB2F4\uAE40\uB370\uBBF8\uC9C0\uB294 \uC81C\uC790\uB9AC \uAE30\uC808\uC774
+      \uC0DD\uAE34\uB2E4"
+  - key: talent8
+    value: "\uC5BC\uC74C\uB370\uBBF8\uC9C0\uB294 \uC774\uB3D9\uC18D\uB3C4\uB97C \uC808\uBC18
+      \uAC10\uC18C\uC2DC\uD0A8\uB2E4 "
+  - key: talent9
+    value: "\uC11D\uBCBD\uB370\uBBF8\uC9C0\uB294 \uBC29\uC5B4\uB825\uC744 \uC808\uBC18
+      \uAC10\uC18C\uC2DC\uD0A8\uB2E4 "
+  - key: talent10
+    value: "\uD654\uC5FC\uB370\uBBF8\uC9C0\uB294 \uC774\uB3D9\uC18D\uB3C4\uB97C \uC808\uBC18
+      \uAC10\uC18C \uC2DC\uD0A8\uB2E4"
+  - key: talent11
+    value: "\uC9C0\uC9C4\uB370\uBBF8\uC9C0\uB294 \uC81C\uC790\uB9AC \uAE30\uC808\uC774
+      \uC0DD\uAE34\uB2E4"
+  - key: talent12
+    value: "\uC804\uC790\uB370\uBBF8\uC9C0\uB294 \uBC29\uC5B4\uB825\uC744 \uC808\uBC18
+      \uAC10\uC18C\uC2DC\uD0A8\uB2E4"
+  - key: talent13
+    value: "\uCCA0\uAD6C\uB370\uBBF8\uC9C0\uB294 \uC774\uB3D9\uC18D\uB3C4\uB97C \uC808\uBC18
+      \uAC10\uC18D\uC2DC\uD0A8\uB2E4 "
+  - key: talent14
+    value: "\uC6B4\uC11D\uC9C0\uC18D\uB370\uBBF8\uC9C0"
+  - key: fixbtn
+    value: "\uD655\uC815"
+  - key: earlylock
+    value: "\uC55E\uB2F9\uACA8 \uD574\uC81C\uD558\uB2E4"
+  - key: basedam
+    value: "\uAE30\uCD08\uB370\uBBF8\uC9C0"
+  - key: adddame
+    value: "\uCD94\uAC00\uB370\uBBF8\uC9C0"
+  - key: pawn
+    value: "\uBCD1\uC0AC"
+  - key: king
+    value: "\uD0B9"
+  - key: baseatk
+    value: "\uAE30\uCD08\uACF5\uACA9\uC18D\uC131"
+  - key: cool
+    value: "\uCFE8\uB2E4\uC6B4"
+  - key: bulletnum
+    value: "\uD0C4\uC57D\uC218\uB7C9"
+  - key: rewarddiam
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC\uBCF4\uC0C1"
+  - key: rewardcandy
+    value: "\uCE94\uB514\uBCF4\uC0C1"
+  - key: passlevel
+    value: STAGE CLEAR
+  - key: totlestar
+    value: "\uCD1D\uC2B9\uAE09\uB808\uBCA8"
+  - key: totlefirt
+    value: "\uCD1D\uD569\uCCB4\uB808\uBCA8"
+  - key: totlediam
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC\uD68D\uB4DD\uC218\uB7C9"
+  - key: extlife
+    value: "\uC0DD\uBA85\uC18C\uBA78"
+  - key: resis1
+    value: "\uBB34\uC800\uD56D"
+  - key: resis2
+    value: "\uB3C5\uC800\uD56D"
+  - key: resis3
+    value: "\uC5BC\uC74C\uC800\uD56D"
+  - key: resis4
+    value: "\uBD88\uC800\uD56D"
+  - key: resis5
+    value: "\uC785\uC790\uC800\uD56D"
+  - key: dailypack
+    value: "\uB370\uC77C\uB9AC\uD398\uD0A4\uC9C0"
+  - key: draw
+    value: "\uC218\uB839"
+  - key: sound
+    value: "\uC74C\uD5A5\uD6A8\uACFC"
+  - key: music
+    value: "\uBBA4\uC9C1"
+  - key: opening
+    value: on
+  - key: closing
+    value: off
+  - key: mergedelay
+    value: "\uD569\uBCD1\uC9C0\uC5F0"
+  - key: incera
+    value: "\uC218\uC775\uC99D\uAC00"
+  - key: incatk
+    value: "\uACF5\uACA9\uC99D\uAC00"
+  - key: earinfo
+    value: "\uC790\uB3D9\uD569\uCCB4\uB294 \uB9E4\uBC88 1\uC2DC\uAC04 \uC9C0\uC18D\uB429\uB2C8\uB2E4"
+  - key: atkinfo
+    value: "\uC720\uC800\uB294 \uAD11\uACE0\uC2DC\uCCAD\uD6C4 \uACF5\uACA9+10\uB85C
+      \uB429\uB2C8\uB2E4"
+  - key: meargeinfo
+    value: "\uC720\uC800\uB294 \uAD11\uACE0\uC2DC\uCCAD\uD6C4 \uC720\uC800\uC758 \uC218\uC775\uC774
+      3\uBC30\uB85C \uB429\uB2C8\uB2E4"
+  - key: bankinfo
+    value: "\uC800\uAE08\uD1B5\uC758 \uCE94\uB514\uB97C \uC218\uB839\uD558\uB2E4.
+      \uC218\uB839\uD55C \uCE94\uB514\uB294 \uD30C\uBC0D\uD6C4\uC5D0 \uD68D\uB4DD\uD55C
+      \uCE94\uB514\uC218\uB7C9\uC774\uB791 \uAC19\uC2B5\uB2C8\uB2E4"
+  - key: vipinfo
+    value: "\uAD6C\uB9E4\uD6C4, \uCD9C\uC11D\uCCB4\uD06C \uC120\uBB3C \uBC0F \uAD11\uACE0
+      \uC2DC\uCCAD\uC2DC \uB2E4\uC774\uC544\uBAAC\uB4DC \uD68D\uB4DD\uC740 10\uAC1C\uB85C
+      \uB41C\uB2E4 \uC77C\uC77C \uC218\uB839\uAC00\uB2A5 \uCE94\uB514\uB294 10\uB9CC\uAC1C\uC785\uB2C8\uB2E4."
+  - key: resbuy
+    value: "\uAD6C\uB9E4\uD68C\uBCF5"
+  - key: adsdraw
+    value: "\uAD11\uACE0\uC2DC\uCCAD\uD6C4 \uC218\uB839"
+  - key: adsakill
+    value: "\uAD11\uACE0\uC2DC\uCCAD\uD6C4 \uC2A4\uD0AC \uC0AC\uC6A9\uD69F\uC218 1\uD68C
+      \uD68D\uB4DD"
+  - key: addakill
+    value: "\uC2A4\uD0AC \uC0AC\uC6A9\uD69F\uC218 1\uD68C \uD68D\uB4DD"
+  - key: diamboot
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC \uC548\uB0B4"
+  - key: goto
+    value: "\uAC00\uB2E4"
+  - key: freefit
+    value: "\uBB34\uB8CC\uD569\uCCB4"
+  - key: freeskill
+    value: "\uBB34\uB8CC\uC2A4\uD0AC"
+  - key: efftime
+    value: "\uD6A8\uACFC\uC9C0\uC18D\uC2DC\uAC04"
+  - key: cooltime
+    value: "\uCFE8\uB2E4\uC6B4 \uCE74\uC6B4\uD2B8\uB2E4\uC6B4"
+  - key: adsinfo1_1
+    value: "\uC77C\uBC18\uACF5\uACA9\uC99D\uD3ED:\uB9E4\uB2E8\uC704\uACF5\uACA9+5"
+  - key: adsinfo1_2
+    value: "VIP\uACF5\uACA9\uC99D\uD3EC:\uB9E4\uB2E8\uC704\uACF5\uACA9+10"
+  - key: adsinfo2_1
+    value: "\uC77C\uBC18\uC218\uC775\uC99D\uAC00:+1\uBC30\uCE94\uB514"
+  - key: adsinfo2_2
+    value: "VIP\uACF5\uACA9\uC99D\uD3EC:+2\uBC30\uCE94\uB514"
+  - key: adsinfo3_1
+    value: "\uC77C\uBC18\uC790\uB3D9\uD569\uCCB4:10\uBD84"
+  - key: adsinfo3_2
+    value: "VIP\uC790\uB3D9\uD569\uCCB4:1\uC2DC\uAC04"
+  - key: adsinfo4
+    value: "\uC2A4\uD14C\uC774\uC9C0\uAC00 \uB192\uC744\uC218\uB85D \uAD11\uACE0\uC2DC\uCCAD\uD6C4
+      \uD68D\uB4DD\uD55C \uCE94\uB514\uC218\uB7C9\uC774 \uB9CE\uC544\uC9D1\uB2C8\uB2E4"
+  - key: adsinfo5
+    value: "\uB9E4\uBC88 \uAD11\uACE0\uC2DC\uCCAD\uD6C4 \uC2A4\uD0AC \uC0AC\uC6A9\uD69F\uC218
+      1\uD68C \uD68D\uB4DD"
+  - key: tip1
+    value: "\uC870\uAC74 \uBD88\uB9CC\uC871"
+  - key: tip2
+    value: "\uD574\uC81C\uC131\uACF5"
+  - key: tip3
+    value: "\uC2A4\uD0AC \uC0AC\uC6A9\uD69F\uC218 1\uD68C \uD68D\uB4DD"
+  - key: tip4
+    value: "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958"
+  - key: tip5
+    value: "\uC804\uB2E8\uACC4\uB97C \uBA3C\uC800 \uD574\uC81C\uD558\uC138\uC694"
+  - key: tip6
+    value: "\uC2DC\uCCAD\uD558\uC2E4 \uAD11\uACE0\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4"
+  - key: tip7
+    value: "\uCD9C\uC11D\uCCB4\uD06C \uB2E4\uC774\uC544\uBAAC\uB4DC \uD68D\uB4DD \uC131\uACF5"
+  - key: tip8
+    value: "\uD574\uC81C \uC2E4\uD328"
+  - key: tip9
+    value: "\uC0AD\uC81C\uB97C \uD560\uC218\uC5C6\uC2B5\uB2C8\uB2E4"
+  - key: tip10
+    value: "\uB0A0\uC9DC\uAC00 \uB418\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4"
+  - key: tip11
+    value: "\uCE94\uB514\uAC00 \uBD80\uC871\uD569\uB2C8\uB2E4"
+  - key: tip12
+    value: "\uC2A4\uD0AC \uCFE8\uD0C0\uC784\uC911"
+  - key: tip13
+    value: "\uC624\uB298 \uC774\uBBF8 \uD68D\uB4DD\uD558\uC600\uC2B5\uB2C8\uB2E4 "
+  - key: tip14
+    value: "\uC790\uB3D9\uD569\uCCB4\uC911"
+  - key: tip15
+    value: "\uD574\uC81C\uD558\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4 "
+  - key: click
+    value: "\uD654\uBA74\uC744 \uD074\uB9AD\uD558\uC5EC \uB118\uAE34\uB2E4"
+  - key: guidename1
+    value: "\uC74C\uC2DD \uC544\uC77C\uB79C\uB4DC"
+  - key: guidename2
+    value: "\uC0DD\uC0B0"
+  - key: guidename3
+    value: "\uD569\uCCB4"
+  - key: guidename6
+    value: "\uC0AC\uC6A9\uC2A4\uD0AC"
+  - key: guidename7
+    value: "\uCE94\uB514\uB97C \uC18C\uBA78\uD558\uB2E4"
+  - key: guidename8
+    value: "\uC2A4\uD0AC \uB370\uC2A4\uD06C"
+  - key: guidename12
+    value: "\uB3D9\uBB3C\uC800\uD56D\uC131"
+  - key: guidename13
+    value: "\uD3EC\uD0D1\uD654\uBA74"
+  - key: guidename14
+    value: "\uBBF8\uC158\uD654\uBA74"
+  - key: guidename15
+    value: "\uC2A4\uD0AC\uD654\uBA74"
+  - key: guidename16
+    value: "STAGE \uC120\uD0DD"
+  - key: guidename17
+    value: "\uAD11\uACE0 \uB2E4\uC774\uC544\uBAAC\uB4DC"
+  - key: guideinfo1_1
+    value: "\uBC14\uB2E4\uC758 \uAE4A\uC740\uACF3\uC5D0\uB294 \uC74C\uC2DD \uC544\uC77C\uB79C\uB4DC\uAC00
+      \uC788\uB2E4.\uC544\uC77C\uB79C\uB4DC\uC758 \uC655\uB208\uC774\uB9C8\uC744\uC5D0\uB294
+      \uCF00\uC775\uC744 \uB9CC\uB4DC\uB294 \uCE94\uB514\uD615\uC81C\uAC00 \uC0B4\uACE0\uC788\uB2E4."
+  - key: guideinfo1_2
+    value: "\uCF00\uC775\uC758 \uD5A5\uAE30\uAC00 \uC544\uC77C\uB79C\uB4DC\uC758 \uB3D9\uBB3C\uB9C8\uC744\uB85C
+      \uD37C\uC84C\uB2E4.  \uB0C4\uC0C8\uB97C \uB9E1\uC740 \uC624\uB9AC\uB294 \uCF00\uC775\uC744
+      \uD6D4\uCCD0\uBA39\uC73C\uB7EC \uC654\uB2E4."
+  - key: guideinfo1_4
+    value: "\uC624\uB9AC\uB294 \uB3D9\uBB3C\uB300\uAD70\uB2E8\uC744 \uB370\uB9AC\uACE0
+      \uC654\uB2E4"
+  - key: guideinfo1_5
+    value: "\uCF00\uC775\uC744 \uC798 \uBCF4\uD638\uD558\uC138\uC694."
+  - key: guideinfo1_6
+    value: "\uC655\uB208\uC774\uCE94\uB514!"
+  - key: guideinfo1_7
+    value: "\uC804\uD22C\uB97C \uC2DC\uC791\uD558\uC138\uC694!"
+  - key: guideinfo2_1
+    value: "\uBC84\uD2BC\uD074\uB9AD"
+  - key: guideinfo2_2
+    value: "\uCE94\uB514\uD3EC\uB97C \uC0DD\uC0B0\uD558\uB2E4"
+  - key: guideinfo3_1
+    value: "\uAC19\uC740 \uC218\uC790\uC758 \uCE94\uB514\uD3EC\uB97C \uB4DC\uB798\uADF8\uD558\uC138\uC694"
+  - key: guideinfo3_2
+    value: "\uC0AC\uD0D5\uACFC \uC9C0\uC815\uB41C \uC704\uCE58 \uC0AC\uD0D5\uC744
+      \uD074\uB9AD\uD558\uAC70\uB098 \uC0AC\uD0D5\uC744 \uB4DC\uB798\uADF8\uD558\uBA74
+      \uB3D9\uC77C\uD55C \uC0AC\uD0D5\uC744\uBCF4\uB2E4 \uACE0\uAE09 \uC0AC\uD0D5
+      \uC288\uD130\uB85C \uBCD1\uD569 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  - key: guideinfo4_1
+    value: "\uCE94\uB514\uB97C \uD074\uB9AD\uD558\uACE0 \uC704\uCE58\uB97C \uC9C0\uC815\uD558\uAC70\uB098
+      \uCE94\uB514\uB97C \uB4DC\uB798\uADF8\uD558\uBA74 \uCE94\uB514 \uC288\uD130\uAC00
+      \uD3EC\uD0D1\uC5D0 \uBC30\uCE58\uB418\uC5B4 \uB85C\uC6B0 \uB808\uBCA8 \uC288\uD130\uB97C
+      \uB300\uCCB4\uD569\uB2C8\uB2E4."
+  - key: guideinfo5_1
+    value: "\uC804\uC7A5 \uC624\uB978\uCABD \uC0C1\uB2E8\uC758 \uC790\uB3D9\uD569\uCCB4\uBC84\uD2BC\uC744
+      \uD074\uB9AD\uD558\uBA74 \uB370\uC2A4\uD06C\uC758 \uCE94\uB514\uB294 \uC218\uB3D9\uC73C\uB85C
+      \uD569\uCCB4\uD558\uC9C0 \uC54A\uC544\uB3C4 \uB429\uB2C8\uB2E4"
+  - key: guideinfo5_2
+    value: "\uC77C\uBC18\uC790\uB3D9\uD569\uCCB4:10\uBD84"
+  - key: guideinfo5_3
+    value: "VIP\uC790\uB3D9\uD569\uCCB4:1\uC2DC\uAC04"
+  - key: guideinfo6_1
+    value: "\uC2A4\uD0AC\uD504\uB85C\uD544\uC744 \uD074\uB9AD\uD558\uC5EC \uC2A4\uD0AC\uC744
+      \uC0AC\uC6A9\uD55C\uB2E4"
+  - key: guideinfo6_2
+    value: "\uBB34\uB8CC\uB85C \uC0AC\uC6A9\uAC00\uB2A5\uD55C \uC2A4\uD0AC\uC740 \uC218\uB7C9\uC774
+      \uB098\uD0C0\uB09C\uB2E4"
+  - key: guideinfo6_3
+    value: "\uC2A4\uD0AC \uBB34\uB8CC\uC0AC\uC6A9\uD69F\uC218\uAC00 \uC5C6\uC73C\uBA74
+      \uC2A4\uD0AC\uC0AC\uC6A9\uC2DC \uCE94\uB514\uAC00 \uC18C\uBAA8\uB41C\uB2E4"
+  - key: guideinfo7_1
+    value: "\uC0AC\uD0D5\uACFC \uC9C0\uC815\uB41C \uC704\uCE58 \uC0AC\uD0D5\uC744
+      \uD074\uB9AD\uD558\uAC70\uB098 \uC0AC\uD0D5\uC744 \uB4DC\uB798\uADF8\uD558\uBA74
+      \uB3D9\uC77C\uD55C \uC0AC\uD0D5\uC744\uBCF4\uB2E4 \uACE0\uAE09 \uC0AC\uD0D5
+      \uC288\uD130\uB85C \uBCD1\uD569 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  - key: guideinfo8_1
+    value: "\uC67C\uCABD\uD558\uB2E8\uC5D0 \uC2A4\uD0AC\uB370\uC2A4\uD06C\uAC00 \uC788\uC2B5\uB2C8\uB2E4.
+      \uC704 \uC218\uC790\uAC00 0\uC73C\uB85C \uBCC0\uD558\uBA74 \uC2A4\uD0AC \uACF0\uC774
+      \uB098\uD0C0\uB0A9\uB2C8\uB2E4. \uC720\uC800\uB294 \uC2A4\uD0AC \uACF0\uC744
+      \uD074\uB9AD\uD558\uC5EC \uAD6C\uB9E4 \uB610\uB294 \uAD11\uACE0 \uC2DC\uCCAD\uC744
+      \uD1B5\uD558\uC5EC \uC2A4\uD0AC\uB3C4\uAD6C\uB97C \uD558\uB098 \uD68D\uB4DD\uD560\uC218\uC788\uC2B5\uB2C8\uB2E4. "
+  - key: guideinfo9_1
+    value: "\uC720\uC800\uB294 \uCE94\uB514\uAC00 \uBD80\uC871\uD560\uB54C \uC804\uC7A5\uB124\uC758
+      \uC624\uB978\uCABD \uD558\uB2E8 \uCE94\uB514\uBC84\uD2BC\uC744 \uB204\uB974\uBA74
+      \uBB34\uB8CC \uCE94\uB514\uB97C \uD68D\uB4DD\uD560\uC218\uC788\uC2B5\uB2C8\uB2E4.
+      \uCE94\uB514\uC218\uB7C9\uC740 \uC720\uC800\uC758 \uC2A4\uD14C\uC774\uC9C0 \uC218\uB7C9\uACFC
+      \uAD00\uACC4\uAC00 \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo10_1
+    value: "\uC804\uD22C\uC2E4\uD328. \uC774 \uACF5\uACA9\uC99D\uD3ED \uBC84\uD2BC\uC744
+      \uB20C\uB7EC \uCE94\uB514\uD3EC\uC5D0 \uACF5\uACA9\uB825\uC744 \uC62C\uB824\uC8FC\uC138\uC694"
+  - key: guideinfo10_2
+    value: "\uC77C\uBC18\uACF5\uACA9\uC99D\uD3ED: \uACF5\uACA9+5"
+  - key: guideinfo10_3
+    value: "VIP\uACF5\uACA9\uC99D\uD3ED:\uACF5\uACA9+10"
+  - key: guideinfo11_1
+    value: "\uCE94\uB514\uAC00 \uBD80\uC871\uD560\uB54C \uC774 \uC218\uC775\uC99D\uAC00\uBC84\uD2BC\uC744
+      \uB204\uB974\uBA74 \uC804\uC7A5\uB124\uC5D0 \uCE94\uB514\uAC00 \uB354\uBE14\uB85C\uB429\uB2C8\uB2E4"
+  - key: guideinfo11_2
+    value: "\uC77C\uBC18\uC218\uC775\uC99D\uAC00:2\uBC30"
+  - key: guideinfo11_3
+    value: "VIP\uC218\uC775\uC99D\uAC00:3\uBC30"
+  - key: guideinfo12_1
+    value: "\uB3D9\uBB3C\uBA38\uB9AC\uC704\uC758 \uC544\uC774\uCF58\uC744 \uC8FC\uC758\uD558\uC138\uC694.\uD574\uB2F9
+      \uC0C9\uAC08\uC740 \uADF8 \uC0C9\uC758\uACF5\uACA9\uC5D0 \uC800\uD56D\uC131\uC774
+      \uC788\uB2E4\uB294\uAC83\uC785\uB2C8\uB2E4 "
+  - key: guideinfo13_1
+    value: "\uC2B9\uAE09\uC740 \uB354\uB9CE\uC740 \uD569\uCCB4\uB300,\uD3EC\uB300,\uCE94\uB514\uD3EC,\uC0DD\uBA85\uCF00\uC775\uC744
+      \ \uD574\uC81C \uD560\uC218\uC788\uB2E4 "
+  - key: guideinfo13_2
+    value: "\uC790\uC138\uD55C \uB0B4\uC6A9\uC740 \uC774 \uB2E8\uC704\uC758 \uAD6C\uCCB4\uC801
+      \uAE30\uB2A5\uC744 \uCC3E\uC544\uBCFC\uC218\uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo14_1
+    value: "\uC720\uC800\uB294 \uD574\uB2F9 \uC784\uBB34\uBC84\uD2BC\uC744 \uB20C\uB7EC
+      \uC784\uBB34\uC758 \uC694\uAD6C \uBC0F \uC0C1\uD488\uC744 \uBCFC\uC218 \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo14_2
+    value: "\uC720\uC800\uB294 \uBAA8\uB450\uC218\uB839 \uBC84\uD2BC\uC73C\uB85C \uD604\uC7AC
+      \uBAA8\uB4E0 \uC0C1\uD488\uC744 \uC218\uB839\uD560\uC218 \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo15_1
+    value: "\uC720\uC800\uB294 \uBC84\uD2BC\uD574\uC81C \uADF8\uB9AC\uACE0 \uBBF8\uB9AC
+      \uBC84\uD2BC\uD574\uC81C\uB85C \uC2A4\uD0AC\uC744 \uD574\uC81C\uD560\uC218 \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo15_2
+    value: "\uC2B9\uAE09\uC2A4\uD0AC\uC740 \uC2A4\uD0AC\uC758 \uACF5\uACA9\uB825\uC744
+      \uD5A5\uC0C1\uC2DC\uD0AC\uC218 \uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo15_3
+    value: "\uC790\uC138\uD55C \uB0B4\uC6A9\uC740 \uC774 \uB2E8\uC704\uC758 \uAD6C\uCCB4\uC801
+      \uAE30\uB2A5\uC744 \uCC3E\uC544\uBCFC\uC218\uC788\uC2B5\uB2C8\uB2E4 "
+  - key: guideinfo16_1
+    value: "\uC720\uC800\uB294 \uC774\uBBF8 \uD1B5\uACFC\uD55C \uC2A4\uD14C\uC774\uC9C0\uB97C
+      \uC120\uD0DD\uD558\uC5EC \uC804\uD22C\uD560\uC218\uC788\uC2B5\uB2C8\uB2E4"
+  - key: guideinfo16_2
+    value: "\uC720\uC800\uAC00 \uC2A4\uD14C\uC774\uC9C0\uB97C \uD1B5\uACFC\uD558\uBA74
+      \uBCC4\uC744 \uD558\uB098 \uD68D\uB4DD\uD560\uC218\uC788\uC2B5\uB2C8\uB2E4"
+  - key: guideinfo16_3
+    value: "\uD37C\uD399\uD2B8\uB85C \uB370\uBBF8\uC9C0 \uC5C6\uC774 \uC2A4\uD14C\uC774\uC9C0
+      \uD1B5\uACFC\uD558\uBA74 \uD558\uD2B8 \uD558\uB098 \uD68D\uB4DD\uD558\uC2E4\uC218
+      \uC788\uC2B5\uB2C8\uB2E4"
+  - key: guideinfo17_1
+    value: "\uC720\uC800\uB294 \uAC8C\uC784\uB124\uC5D0 \uBAA8\uB4E0 \uACA9\uB824\uAD11\uACE0\uB97C
+      \uC2DC\uCCAD\uD560\uB54C \uD574\uB2F9 \uAD11\uACE0\uB9C8\uB2E4 \uB2E4\uC774\uC544\uBAAC\uB4DC\uB97C
+      \uD68D\uB4DD\uD560\uC218\uC788\uB294 \uD504\uB85C\uADF8\uB808\uC2A4 \uBC14\uAC00
+      \uC788\uC2B5\uB2C8\uB2E4. \uD504\uB85C\uADF8\uB808\uC2A4 \uBC14\uAC00 \uB05D\uAE4C\uC9C0
+      \uAC00\uBA74 \uC720\uC800\uB294 \uB2E4\uC774\uC544\uBAAC\uB4DC 5\uAC1C\uB97C
+      \uD68D\uB4DD\uD569\uB2C8\uB2E4 "
+  - key: getrew
+    value: "\uC0C1\uD488\uC744 \uD68D\uB4DD\uD558\uB2E4"
+  - key: adsget
+    value: "\uAD11\uACE0\uB3D9\uC601\uC0C1\uC744 5\uD68C \uC2DC\uCCAD\uD558\uBA74
+      \uD68D\uB4DD\uD560\uC218\uC788\uC2B5\uB2C8\uB2E4"
+  - key: get
+    value: "\uD68D\uB4DD"
+  - key: system1
+    value: "\uC2DC\uC2A4\uD15C\uC54C\uB9BC"
+  - key: system2
+    value: "\uC774 \uD3EC\uD0D1\uC740 \uACE0\uAE09\uD3EC\uD0D1\uC785\uB2C8\uB2E4.
+      \uD3D0\uAE30\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+  - key: cancel
+    value: "\uCDE8\uC18C"
+  - key: today
+    value: "\uC624\uB298 \uC774\uBBF8 \uD68D\uB4DD\uD588\uC2B5\uB2C8\uB2E4 "
+  - key: alllock
+    value: "\uC774\uBBF8 \uBAA8\uB450 \uD574\uC81C\uD558\uC600\uC2B5\uB2C8\uB2E4 "
+  - key: allcon
+    value: "\uC804\uBD80 \uC804\uD658"
+  - key: upgrade
+    value: "\uC5C5\uADF8\uB808\uC774\uB4DC"
+  - key: alldraw
+    value: "\uC804\uBD80\uC218\uB839"
+  - key: resInfo
+    value: "\uB9CC\uC57D \uBE44\uC18C\uBAA8\uC131\uD56D\uBAA9\uC744 \uC774\uBBF8 \uAD6C\uB9E4\uD558\uC600\uB294\uB370
+      \uC6D0\uC0C1\uBCF5\uADC0\uD558\uACE0 \uC2F6\uC5B4\uC11C \uB2E4\uC2DC \uBB34\uB8CC\uB2E4\uC6B4\uD558\uC2E4\uB824\uBA74
+      \u201C\uD655\uC778\"\uC744 \uB204\uB974\uC138\uC694."
+  - key: addadmin
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC \uC99D\uAC00"
+  - key: adminbuy
+    value: " \uAD11\uACE0\uB97C 5\uD68C \uC2DC\uCCAD\uD6C4 \uB2E4\uC774\uC544\uBAAC\uB4DC+10\uC744
+      \uD68D\uB4DD\uD55C\uB2E4"
+  - key: guidename18
+    value: "\uD574\uC81C\uD78C\uD2B8"
+  - key: guideinfo18_1
+    value: "\uC0C8\uB85C\uC6B4 \uB2E8\uACC4  "
+  - key: guideinfo18_2
+    value: "\uB2E4\uC74C\uB2E8\uACC4 \uD574\uC81C\uB4F1\uAE09"
+  - key: require
+    value: "\uC218\uC694"
+  - key: qqgroup
+    value: "qq \uACF5\uC2DD \uADF8\uB8F9"
+  - key: email
+    value: "\uC774\uBA54\uC77C:su1980@126.com"
+  - key: injury
+    value: "\uB370\uBBF8\uC9C0\uC22B\uC790"
+  - key: vipsign
+    value: "Vip \uCD9C\uC11D"
+  - key: build
+    value: "\uAC74\uCD95"
+  - key: gift
+    value: "\uD398\uD0A4\uC9C0"
+  - key: reset
+    value: "\uB9AC\uC14B"
+  - key: regret
+    value: "\uD6C4\uD68C"
+  - key: share
+    value: "\uACF5\uC720"
+  - key: batter
+    value: "\uC804\uC7A5"
+  - key: sceneoper
+    value: "\uD654\uBA74\uC870\uC791"
+  - key: animaloper
+    value: "\uB3D9\uBB3C\uC870\uC791"
+  - key: restore
+    value: "\uD68C\uBCF5"
+  - key: freed
+    value: "\uBC29\uCD9C"
+  - key: deathsnum
+    value: "\uC0AC\uB9DD\uC218"
+  - key: animalsum
+    value: "\uB3D9\uBB3C\uCD1D\uC218"
+  - key: possesum
+    value: "\uBCF4\uC720\uC218"
+  - key: packagegift
+    value: "\uD398\uD0A4\uC9C0\uAC74\uCD95"
+  - key: nextgift
+    value: "\uB2E4\uC74C\uD398\uD0A4\uC9C0\uBCF4\uC0C1"
+  - key: getgift
+    value: "\uD68D\uB4DD\uD55C \uD398\uD0A4\uC9C0\uC218\uB7C9"
+  - key: finishgift
+    value: "\uACE7 \uC644\uC131\uB420\uAC83\uC774\uB2E4"
+  - key: nextrequ
+    value: "\uB2E4\uC74C \uD398\uD0A4\uC9C0 \uC218\uC694"
+  - key: buildguide1
+    value: "\uBC29\uCD9C\uBC84\uD2BC\uC744 \uB20C\uB7EC \uAC74\uBB3C\uC744 \uAC74\uCD95\uD558\uB2E4"
+  - key: buildguide2
+    value: "\uD6C4\uD68C\uBC84\uD2BC\uC744 \uB20C\uB7EC \uB3D9\uBB3C\uC744 \uC218\uB839\uD560\uC218\uC788\uB2E4"
+  - key: buildguide3
+    value: "\uD654\uBA74\uC758 \uB3D9\uBB3C\uC744 \uB354\uBE14\uD074\uB9AD\uD558\uC5EC
+      \uD574\uB2F9 \uB3D9\uBB3C\uC744 \uC218\uB839\uD560\uC218\uC788\uB2E4"
+  - key: buildguide4
+    value: "\uB3D9\uBB3C\uC744 \uB4DC\uB798\uADF8 \uB610\uB294 \uD68C\uC804\uD558\uC5EC
+      \uB3D9\uBB3C\uC744 \uD074\uB9AD\uD558\uC5EC \uBC84\uD2BC\uC744 \uC804\uD658\uD560\uC218\uC788\uB2E4"
+  - key: buildguide5
+    value: "\uD654\uBA74\uC744 \uB4DC\uB798\uADF8 \uB610\uB294 \uD68C\uC804\uD558\uC5EC
+      \uD654\uBA74\uC744 \uD1B5\uD574 \uBC84\uD2BC\uC744 \uC804\uD658\uD560\uC218\uC788\uB2E4"
+  - key: buildguide6
+    value: "\uBD80\uD65C\uBC84\uD2BC\uC744 \uB20C\uB7EC \uC8FD\uC740 \uB3D9\uBB3C\uC744
+      \uBD80\uD65C\uC2DC\uD0A8\uB2E4"
+  - key: buildguide7
+    value: "\uB9AC\uC14B\uBC84\uD2BC\uC744 \uB20C\uB7EC \uAC74\uBB3C\uC744 \uC7AC\uAC74\uCD95\uD55C\uB2E4"
+  - key: tip16
+    value: "\uAC74\uBB3C\uC774 \uC7AC\uAC74\uCD95\uD558\uAE30 \uC2DC\uC791\uD569\uB2C8\uB2E4"
+  - key: tip17
+    value: "\uC8FD\uC740 \uB3D9\uBB3C\uC744 \uCD5C\uB300 10\uB9C8\uB9AC \uBD80\uD65C\uC2DC\uD0AC\uC218
+      \uC788\uB2E4"
+  - key: recording
+    value: "\uAE30\uB85D"
+  - key: thistime
+    value: "\uBCF8\uD68C"
+  - key: Drag
+    value: "\uB4DC\uB798\uADF8"
+  - key: Spin
+    value: "\uD68C\uC804"
+  - key: buildguide5_1
+    value: "\uC591\uC190\uC73C\uB85C \uC7A5\uBA74\uC744 \uD655\uB300 / \uCD95\uC18C
+      \uD560 \uC218\uB3C4 \uC788\uC2B5\uB2C8\uB2E4. \uBC14\uAE65 \uCABD\uC744 \uAC00\uB9AC\uD0A4\uB294
+      \uC190\uC73C\uB85C \uB80C\uC988\uB97C \uC55E\uC73C\uB85C \uBC00\uACE0 \uC190\uC73C\uB85C
+      \uC548\uCABD\uC744 \uAC00\uB9AC\uD0A4\uACE0 \uB80C\uC988\uB97C \uB4A4\uB85C
+      \uBC09\uB2C8\uB2E4."
+  - key: buildguide8
+    value: "'\uBAA8\uB4DC'\uBC84\uD2BC, \uC548\uC5D0 \uC788\uB294'\uBCF4\uBB3C \uCC3E\uAE30'\uBC84\uD2BC\uC744
+      \uB20C\uB7EC\uC11C \uAC74\uCD95\uC744\uD558\uACE0 \uB2E4\uC774\uC544\uBAAC\uB4DC\uB97C
+      \uB9CC\uB4E4\uC5B4\uC694!"
+  - key: buildAnimal
+    value: "\uB3D9\uBB3C\uAC74\uCD95"
+  - key: wordta
+    value: "\uC6D4\uB4DC \uD0C0\uC6CC"
+  - key: fitfire
+    value: "\uC804\uC7A5\uC5D0 \uC801\uD569"
+  - key: freediam
+    value: "\uBB34\uB8CC\uB85C"
+  - key: tip18
+    value: "\uC0AC\uC9C4\uC744 \uD074\uB9AD\uD574\uC11C \uB3D9\uBB3C\uC744 \uAD6C\uB9E4\uD558\uB2E4."
+  - key: tip19
+    value: "\uD50C\uB808\uC774\uC5B4\uB294 \uAD11\uACE0 \uD654\uD3D0\uB97C \uC18C\uBAA8\uD558\uC5EC
+      \uAE30\uD0C0 \uC790\uC6D0\uACFC \uAE30\uB2A5\uC744 \uBC14\uAFC0 \uC218 \uC788\uB2E4."
+  - key: buyanimal
+    value: "\uB3D9\uBB3C\uC744 \uAD6C\uC785\uD558\uB2E4"
+  - key: autogrow
+    value: "\uC790\uB3D9 \uC0DD\uC0B0"
+  - key: taskname24
+    value: "\uBA4B\uC9C4 \uACE0\uC591\uC774"
+  - key: taskname25
+    value: "\uB0A0\uCE74\uB85C\uC6B4 \uB3FC\uC9C0"
+  - key: taskname26
+    value: "\uD32C\uB354 \uC288\uD37C"
+  - key: taskname27
+    value: "\uBD81\uADF9 \uB300\uAD70\uC8FC"
+  - key: taskname28
+    value: "\uBA67\uB3FC\uC9C0 \uC1FC"
+  - key: taskname29
+    value: "\uD1A0\uACE0 \uD0C0\uB85C"
+  - key: taskname30
+    value: "\uD615\uC81C \uAC1C\uAD6C\uB9AC"
+  - key: taskname31
+    value: "\uC554\uC18C \uC544\uBE60"
+  - key: taskname32
+    value: "\uB2F9\uB098\uADC0 \uC694\uC815"
+  - key: taskname33
+    value: "\uC77C\uBC18 \uD3AD\uADC4"
+  - key: taskname34
+    value: "\uC0BC\uCD0C \uD0A4\uC704"
+  - key: taskname35
+    value: "\uAE4C\uB9C8\uADC0 \uC138\uBC14"
+  - key: taskname36
+    value: "\uB9C8\uC6B0\uC2A4 \uB85C\uB4DC"
+  - key: taskname37
+    value: "\uC5D8\uD06C \uB299\uC740 \uB3C4\uB451"
+  - key: taskname38
+    value: "\uD560\uC544\uBC84\uC9C0 \uAC70\uBD81\uC774"
+  - key: taskname39
+    value: "\uB208\uD45C\uBC94"
+  - key: taskname40
+    value: "\uB108\uAD6C\uB9AC \uD0A4\uB4DC"
+  - key: taskname41
+    value: "\uD0C0\uC774\uAC70 \uD504\uB9B0\uC2A4"
+  - key: taskname42
+    value: "\uC591 \uB2D0"
+  - key: taskname43
+    value: "\uD1A0\uB07C \uC18C\uB140"
+  - key: taskname44
+    value: "\uC870\uB2C8 \uC0AC\uC790"
+  - key: taskname45
+    value: "\uC7AD \uCEF5"
+  - key: Treasure
+    value: "\uBCF4\uBB3C"
+  - key: buildguide9
+    value: "\uB192\uC740 \uBBF8\uC158 \uAE30\uB85D\uC774 \uAC31\uC2E0 \uB420 \uB54C\uB9C8\uB2E4
+      \uC0C8\uB85C\uC6B4 \uBCF4\uBB3C\uC774 \uC0DD\uC131\uB418\uACE0 \uB3D9\uBB3C\uC758
+      \uD0C4\uC0DD \uC9C0\uC810\uC774 \uC774\uB3D9\uB418\uBA70 \uCDA9\uB3CC\uC5D0
+      \uC758\uD574 \uB9CE\uC740 \uB2E4\uC774\uC544\uBAAC\uB4DC\uAC00 \uD68D\uB4DD\uB429\uB2C8\uB2E4."
+  - key: initInfo
+    value: "\uC804\uD654 \uB04A\uAE30 \uBAA8\uB4DC, \uC2DC\uAC04 \uBAA8\uB4DC, \uC6D4\uB4DC
+      \uD0C0\uC6CC\uB294 \uB354 \uB9CE\uC740 \uB2E4\uC774\uC544\uBAAC\uB4DC\uB97C
+      \uC5BB\uC744 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  - key: tipmove
+    value: "\uC5EC\uAE30\uB85C\uC640"
+  - key: Zoomscene
+    value: "\uC90C \uC7A5\uBA74"
+  - key: gocenter
+    value: "\uC911\uC559\uC73C\uB85C \uB3CC\uC544 \uAC00\uAE30"
+  - key: inturret
+    value: "\uC0DD\uC0B0 \uC911"
+  - key: stopturret
+    value: "\uC0DD\uC0B0 \uC911\uC9C0"
+  - key: turretTip
+    value: "\uD558\uB098 \uC774\uC0C1\uC758 \uC218\uC5C5\uC744 \uC720\uC9C0\uD558\uC2ED\uC2DC\uC624."
+  - key: instate
+    value: "\uC81C\uC870 \uC0C1\uD0DC"
+  - key: tip20
+    value: "\uC774 \uC0AC\uD0D5\uC744 \uACC4\uC18D \uC0DD\uC0B0\uD560 \uD544\uC694\uAC00
+      \uC5C6\uB2E4\uBA74 \uD3EC\uD0D1 \uD328\uB110\uC5D0\uC788\uB294 \uC0AC\uD0D5\uC758
+      \"\uC0DD\uC0B0\"\uBC84\uD2BC\uC744 \uD074\uB9AD\uD558\uC5EC \uC0DD\uC0B0\uC744
+      \uC911\uC9C0\uD558\uC2ED\uC2DC\uC624."
+  - key: tip21
+    value: "\uD604\uC7AC \uCE94\uB514 \uCE90\uB17C \uC0DD\uC0B0 \uC5EC\uBD80 \uC120\uD0DD"
+  - key: activitytip
+    value: "\uD65C\uB3D9 : \uC9C0\uAE08 \uC0AC\uB0B4\uC5D0\uC11C \uB2E4\uC774\uC544\uBAAC\uB4DC\uB97C
+      \uAD6C\uC785\uD558\uC5EC \uB450 \uBC30\uC758 \uC790\uC6D0\uC744 \uC5BB\uC73C\uC2ED\uC2DC\uC624."
+  - key: taskname5
+    value: "\uC2DC\uAC04 \uBAA8\uB4DC"
+  - key: totletime
+    value: "\uC0DD\uC874 \uC2DC\uAC04 "
+  - key: tip22
+    value: "\uC801\uC774 \uD3ED\uB825\uC801\uC778 \uC0C1\uD0DC\uC5D0 \uB4E4\uC5B4\uAC04\uB2E4!
+      \uC5B4\uB808\uC774 \uBC30\uD3EC \uB2A5\uB825\uC744 \uD14C\uC2A4\uD2B8 \uD560
+      \uB54C\uC785\uB2C8\uB2E4!"
+  - key: tip23
+    value: "\uC5BC\uB9C8\uB098 \uC624\uB798 \uC0B4\uC544\uB0A8\uC744 \uC218 \uC788\uB294\uC9C0
+      \uD14C\uC2A4\uD2B8\uD558\uC2ED\uC2DC\uC624! \uC2DC\uAC04 \uBAA8\uB4DC\uC5D0\uB294
+      \uB9CE\uC740 \uB2E4\uC774\uC544\uBAAC\uB4DC \uBCF4\uC0C1\uC774 \uC788\uC2B5\uB2C8\uB2E4!"
+  - key: tip24
+    value: "\uC5B4\uC11C"
+  - key: pattern
+    value: "\uBC29\uBC95"
+  - key: time
+    value: "\uC2DC\uAC01"
+  - key: hunt
+    value: "\uBCF4\uBB3C \uCC3E\uAE30"
+  - key: tip25
+    value: "\uC774 \uAC8C\uC784\uC774 \uB9C8\uC74C\uC5D0 \uB4DC\uC2DC\uBA74 \uCE6D\uCC2C\uD558\uB7EC
+      \uAC00\uC154\uC11C \uB2E4\uC774\uC544\uBAAC\uB4DC\uB97C \uBCF4\uC0C1 \uD574\uB4DC\uB9BD\uB2C8\uB2E4!"
+  - key: goEvalue
+    value: "\uD3C9\uAC00\uD558\uB824\uBA74"
+  - key: freeitem
+    value: "\uBB34\uB8CC \uC18C\uD488"
+  - key: passmode
+    value: "\uB808\uBCA8 \uBAA8\uB4DC"
+  - key: huntmode
+    value: "\uBCF4\uBB3C \uCC3E\uAE30 \uBAA8\uB4DC"
+  - key: selecttime
+    value: "\uC120\uD0DD \uAE30\uAC04"
+  - key: timetip1
+    value: "\uB179\uD654 \uC2DC\uAC04\uC740 30 \uCD08 \uB4A4\uB85C \uB3CC\uC544\uAC11\uB2C8\uB2E4."
+  - key: star
+    value: "\uC2A4\uD0C0\uD2B8"
+  - key: toplay
+    value: "\uB2E4\uC2DC \uD558\uB2E4"
+  - key: skillrealname11
+    value: "\uBD89\uC740 \uBC14\uB78C"
+  - key: skillrealname12
+    value: "\uC544\uC774\uC2A4 \uC6D4\uB4DC"
+  - key: skillrealname13
+    value: "\uBD88\uC758 \uBC14\uB2E4"
+  - key: skillrealname14
+    value: "\uC0B0\uC0AC\uD0DC"
+  - key: skillrealname15
+    value: "\uAE08\uBC15"
+  - key: skillrealname16
+    value: "\uC804\uC7C1 \uBC40"
+  - key: skillrealname17
+    value: "\uCFE0\uD0A4 \uB9E8"
+  - key: skillrealname18
+    value: "\uB864\uB9C1 \uCE94\uB514"
+  - key: skillrealname19
+    value: "\uB9AC\uD2C0 \uBCA0\uC5B4"
+  - key: skillrealname20
+    value: "\uB208\uC0AC\uB78C"
+  - key: skillipname11
+    value: "\uCE90\uB7FF"
+  - key: skillipname12
+    value: "\uB9E4\uD2B8"
+  - key: skillipname13
+    value: Natra
+  - key: skillipname14
+    value: "\uBBF8\uAD6D \uBCD1\uC0AC"
+  - key: skillipname15
+    value: "\uD3EC\uB85C \uB2C8"
+  - key: skillipname16
+    value: "\uBC14\uBE44"
+  - key: skillipname17
+    value: "\uC5EC\uC790 \uC774\uB984"
+  - key: skillipname18
+    value: "\uD3F4\uB81B"
+  - key: skillipname19
+    value: Chuer
+  - key: skillipname20
+    value: "\uD398\uC2A4\uD2F0"
+  - key: turretrealname6
+    value: Iger
+  - key: turretrealname7
+    value: "\uD558\uC580"
+  - key: turretrealname8
+    value: "\uB9AC\uB4DC"
+  - key: turretrealname9
+    value: "\uB9D0\uB9B0 \uC528\uC557"
+  - key: turretrealname10
+    value: "\uCE74\uD130"
+  - key: turretrealname11
+    value: "\uB79C\uB4DC"
+  - key: turretrealname12
+    value: "\uBC84\uC2A4\uD130"
+  - key: turretrealname13
+    value: Cui Li
+  - key: turretrealname14
+    value: Kraft
+  - key: turretrealname15
+    value: Carranver
+  - key: turretrealname16
+    value: "\uD2F0\uBBF8"
+  - key: turretrealname17
+    value: "\uD1A0\uD3A0"
+  - key: turretrealname18
+    value: "\uB808\uC774\uC800 \uBCBD"
+  - key: turretrealname19
+    value: Pintel
+  - key: turretrealname20
+    value: "\uBC84\uD2B8"
+  - key: turretrealname21
+    value: "\uD6C4\uCD94"
+  - key: turretipname6
+    value: "\uC5D0\uADF8 \uCE94\uB514"
+  - key: turretipname7
+    value: "\uC124\uD0D5"
+  - key: turretipname8
+    value: "\uB808\uB4DC \uD558\uD2B8 \uCE94\uB514"
+  - key: turretipname9
+    value: "\uBE14\uB8E8 \uBCA0\uB9AC \uCE94\uB514"
+  - key: turretipname10
+    value: "\uC19C\uC0AC\uD0D5"
+  - key: turretipname11
+    value: "\uCD08\uCF5C\uB9BF"
+  - key: turretipname12
+    value: "\uD31D\uD551 \uCE94\uB514"
+  - key: turretipname13
+    value: "\uCE60\uB9AC \uCE94\uB514"
+  - key: turretipname14
+    value: "\uD06C\uB798\uD504\uD2B8 \uCE94\uB514"
+  - key: turretipname15
+    value: "\uBBFC\uD2B8"
+  - key: turretipname16
+    value: "\uBE44\uD0C0\uBBFC C \uCE94\uB514"
+  - key: turretipname17
+    value: "\uD0DC\uD53C"
+  - key: turretipname18
+    value: "\uAECC"
+  - key: turretipname19
+    value: "\uB545\uCF69 \uC0AC\uD0D5"
+  - key: turretipname20
+    value: "\uBC14\uC0AD \uBC14\uC0AD\uD55C \uCE94\uB514"
+  - key: turretipname21
+    value: "\uD31D \uCE94\uB514"
+  - key: talent15
+    value: "\uBB3C\uB9AC\uC801 \uC5F0\uC18D \uC190\uC0C1."
+  - key: talent16
+    value: "\uC5BC\uC74C \uD53C\uD574\uB294 \uC774\uB3D9 \uC18D\uB3C4\uB97C 70 % \uAC10\uC18C\uC2DC\uD0B5\uB2C8\uB2E4."
+  - key: talent17
+    value: "\uD654\uC0C1\uC740 \uACC4\uC18D\uD574\uC11C \uC544\uD504\uB2E4."
+  - key: talent18
+    value: "\uC804\uC790\uAE30 \uC190\uC0C1 \uBC29\uC5B4\uAC00 \uC808\uBC18\uC73C\uB85C
+      \uC904\uC5B4 \uB4ED\uB2C8\uB2E4."
+  - key: talent19
+    value: "\uC5BC\uC74C \uD53C\uD574\uB294 \uC774\uB3D9 \uC18D\uB3C4\uB97C 70 % \uAC10\uC18C\uC2DC\uD0B5\uB2C8\uB2E4."
+  - key: talent20
+    value: "\uC801\uC5D0 \uB300\uD55C \uBB3C\uB9AC \uD53C\uD574\uAC00 \uAE30\uC808\uD569\uB2C8\uB2E4."
+  - key: talent21
+    value: "\uC801\uC740 \uC3E0 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4."
+  - key: talent22
+    value: "\uBB3C\uB9AC\uC801 \uACF5\uACA9\uB825\uC774 \uC808\uBC18\uC73C\uB85C \uC904\uC5B4
+      \uB4ED\uB2C8\uB2E4."
+  - key: talent23
+    value: "\uD654\uC0C1\uC740 \uACC4\uC18D\uD574\uC11C \uC544\uD504\uB2E4."
+  - key: talent24
+    value: "\uC81C\uC790\uB9AC\uC5D0 \uACE0\uC815."
+  - key: talent25
+    value: "\uD654\uC0C1\uC740 \uADF8 \uC790\uB9AC\uC5D0\uC11C \uAE30\uC808\uD588\uC2B5\uB2C8\uB2E4."
+  - key: talent26
+    value: "\uC5BC\uC74C \uD53C\uD574\uB294 \uC774\uB3D9 \uC18D\uB3C4\uB97C \uC808\uBC18\uC73C\uB85C
+      \uC904\uC785\uB2C8\uB2E4."
+  - key: talent27
+    value: "\uC785\uC790 \uC190\uC0C1 \uD604\uAE30\uC99D."
+  - key: talent28
+    value: "\uC81C\uC790\uB9AC\uC5D0 \uACE0\uC815."
+  - key: talent29
+    value: "\uD654\uC0C1\uC740 \uACC4\uC18D\uD574\uC11C \uC544\uD504\uB2E4."
+  - key: talent30
+    value: "\uD654\uC0C1\uC740 \uACC4\uC18D\uD574\uC11C \uC544\uD504\uB2E4."
+  - key: talent31
+    value: "\uBC29\uC5B4 \uC2E4\uD328."
+  - key: talent32
+    value: "\uC81C\uC790\uB9AC\uC5D0 \uACE0\uC815."
+  - key: talent33
+    value: "\uBB3C\uB9AC \uACF5\uACA9\uB825\uC774 \uAC10\uC18C\uD558\uACE0 \uBBF8\uB2C8\uC5B8
+      1 / Boss50\uC774 \uAC10\uC18C\uD569\uB2C8\uB2E4."
+  - key: talent34
+    value: "\uC774\uB3D9 \uC18D\uB3C4\uAC00 70 % \uAC10\uC18C\uD569\uB2C8\uB2E4."
+  - key: talent35
+    value: "\uAE30\uBCF8 \uD608\uC561\uB7C9\uC740 30 % \uAC10\uC18C\uD569\uB2C8\uB2E4."
+  - key: talent36
+    value: "\uD3EC\uD0D1 \uACF5\uACA9\uB825\uC774 \uB450 \uBC30\uAC00\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+  - key: talent37
+    value: "\uC785\uC790\uB294 \uB9E4\uCD08\uB9C8\uB2E4 \uACC4\uC18D \uD53C\uD574\uB97C
+      \uC785\uC2B5\uB2C8\uB2E4. \uBBF8\uB2C8\uC5B8\uC740 10 % / Boss5 %\uC785\uB2C8\uB2E4."
+  - key: talent38
+    value: "\uC801\uC740 \uC3E0 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4."
+  - key: talent39
+    value: "\uB098\uBA38\uC9C0 HP\uB294 \uAC10\uC18C\uD558\uACE0 \uD06C\uB9BD\uC740
+      100 % / Boss 30 %\uC785\uB2C8\uB2E4."
+  - key: talent40
+    value: "\uCF00\uC774\uD06C\uC5D0 \uC0DD\uBA85\uC744 \uBD88\uC5B4 \uB123\uC73C\uC2ED\uC2DC\uC624."
+  - key: hookmode
+    value: "\uC628\uD6C5 \uBAA8\uB4DC"
+  - key: routemode
+    value: "\uACBD\uB85C \uBAA8\uB4DC"
+  - key: carry
+    value: "\uB098\uB974\uB2E4"
+  - key: unload
+    value: "\uBD80\uB9AC\uB2E4"
+  - key: gowar
+    value: "\uC804\uC7C1\uC5D0 \uAC00\uB2E4"
+  - key: battletask
+    value: "\uC804\uC7A5 \uC784\uBB34"
+  - key: wave
+    value: "\uC6E8\uC774\uBE0C"
+  - key: paused
+    value: "\uC77C\uC2DC \uC911\uC9C0\uB428"
+  - key: dropout
+    value: "\uADF8\uB9CC\uB450 \uB2E4"
+  - key: playagain
+    value: "\uB2E4\uC2DC \uD50C\uB808\uC774"
+  - key: onplay
+    value: "\uACC4\uC18D\uD558\uB2E4"
+  - key: Congratulations
+    value: "\uCD95\uD558\uD569\uB2C8\uB2E4"
+  - key: hangup
+    value: "\uB04A\uB2E4"
+  - key: route
+    value: "\uB178\uC120"
+  - key: selectres
+    value: "\uB9AC\uC18C\uC2A4 \uC120\uD0DD"
+  - key: use
+    value: "\uC0AC\uC6A9\uD558\uB2E4"
+  - key: announcement
+    value: "\uBC1C\uD45C"
+  - key: version
+    value: "\uBC84\uC804"
+  - key: dragmove
+    value: "\uB4DC\uB798\uADF8 / \uD074\uB9AD"
+  - key: tip26
+    value: "\uC0AC\uD0D5\uC744 \uD074\uB9AD\uD558\uACE0 \uC704\uCE58\uB97C \uC9C0\uC815\uD558\uAC70\uB098
+      \uC0AC\uD0D5\uC744 \uB4DC\uB798\uADF8\uD558\uC5EC \uB3D9\uBB3C\uC774 \uCF00\uC774\uD06C\uB97C
+      \uBA39\uC73C\uB7EC \uC624\uB294 \uAC83\uC744 \uBC29\uC9C0\uD558\uAE30 \uC704\uD574
+      \uC0AC\uD0D5 \uC0AC\uC218\uB97C \uC0AC\uACA9 \uD50C\uB7AB\uD3FC\uC5D0 \uB193\uC2B5\uB2C8\uB2E4."
+  - key: modecontent
+    value: "\uBAA8\uB4DC \uB0B4\uC6A9"
+  - key: modeinfo1
+    value: "\uB3D9\uBB3C \uC138\uACC4\uB97C \uD1B5\uACFC\uD558\uB294 \uACBD\uB85C
+      \uBAA8\uB4DC."
+  - key: modeinfo2
+    value: "\uC628\uD6C5 \uBAA8\uB4DC\uB294 \uB9CE\uC740 \uB9AC\uC18C\uC2A4\uB97C
+      \uC5BB\uC2B5\uB2C8\uB2E4."
+  - key: modeinfo3
+    value: "\uC2DC\uAC04 \uBAA8\uB4DC\uB294 \uAC70\uB300\uD55C \uB3D9\uBB3C\uC5D0
+      \uB3C4\uC804\uD569\uB2C8\uB2E4."
+  - key: modeinfo4
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC\uC758 \uBCF4\uBB3C\uC744 \uCC3E\uB294 \uBCF4\uBB3C
+      \uCC3E\uAE30 \uBAA8\uB4DC."
+  - key: tip27
+    value: "\uC804\uC7A5\uC744 \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624."
+  - key: tip28
+    value: "\uD074\uB9AD\uD558\uBA74 \uC804\uC7A5\uC73C\uB85C \uC774\uB3D9\uD569\uB2C8\uB2E4."
+  - key: tip29
+    value: "\uD558\uB098 \uC774\uC0C1\uC758 \uB2E8\uC704\uB97C \uBC30\uCE58\uD558\uC2ED\uC2DC\uC624."
+  - key: routetask1
+    value: "\uC804\uC7A5 \uD074\uB9AC\uC5B4 \uCE94\uB514 \uC624\uBC84"
+  - key: routetask2
+    value: "\uAE30\uC220\uC744"
+  - key: routetask3
+    value: "\uC2A4\uD0AC\uC740 \uB2E4\uC74C \uC720\uB2DB \uB9CC \uB808\uBCA8\uC744
+      \uD1B5\uACFC \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  - key: routetask4
+    value: "\uC0AC\uC218\uB294 \uB808\uBCA8\uC744 \uD1B5\uACFC\uD558\uAE30 \uC704\uD574
+      \uB2E4\uC74C \uC720\uB2DB \uB9CC \uAC00\uC838\uC62C \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  - key: routetask5
+    value: "\uAC00\uC7A5 \uBE60\uB978 \uD1B5\uAD00 \uC2DC\uAC04"
+  - key: routetask6
+    value: "\uC2A4\uD0AC\uC744 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uACE0 \uB808\uBCA8\uC744
+      \uD074\uB9AC\uC5B4\uD558\uC2ED\uC2DC\uC624."
+  - key: routetask7
+    value: "\uB808\uBCA8\uC744 \uD1B5\uACFC\uD558\uB824\uBA74 \uD55C \uC885\uB958\uC758
+      \uC288\uD305 \uC720\uB2DB \uB9CC \uC0AC\uC6A9\uD558\uC2ED\uC2DC\uC624."
+  - key: routetask8
+    value: "\uD3EC\uD0D1 \uC218\uB9CC \uC0AC\uC6A9\uD558\uC2ED\uC2DC\uC624."
+  - key: routetask9
+    value: "\uC804\uD608\uB85C \uD1B5\uACFC\uD588\uC2B5\uB2C8\uB2E4."
+  - key: versioninfo1
+    value: "\uC0C8\uB85C\uC6B4 \uCD94\uAC00 \uC0AC\uD56D : \uACBD\uB85C \uBAA8\uB4DC,
+      \uD1B5\uD569 \uAC8C\uC784 \uD50C\uB808\uC774 \uBC0F \uB808\uC774\uC544\uC6C3
+      \uACBD\uB85C. 180 \uB808\uBCA8 \uB8E8\uD2B8 \uB9F5, 21 \uC885\uC758 \uCE94\uB514
+      \uC288\uD130, 20 \uC885\uC758 \uCE94\uB514 \uC6CC\uB85D \uC2A4\uD0AC. \uC804\uD22C\uC5D0\uC11C
+      \uC0DD\uAC01\uC758 \uD55C\uACC4\uAE4C\uC9C0 \uB450\uB1CC\uB97C \uD6C8\uB828\uD558\uACE0
+      \uC804\uC7C1\uC5D0\uC11C \uB9C8\uC74C\uACFC \uC190\uC758 \uB2E8\uACB0\uB85C
+      \uBE60\uB974\uAC8C \uBC18\uC751\uD558\uC2ED\uC2DC\uC624."
+  - key: versioninfo2
+    value: "\uC0C8\uB85C\uC6B4 \uCF58\uD150\uCE20 : \uC2DC\uAC04 \uBAA8\uB4DC.\uC774
+      \uB808\uBCA8\uC5D0\uB294 \uB9CE\uC740 \uC801\uB4E4\uC774 \uC788\uC2B5\uB2C8\uB2E4.
+      \uC790\uC2E0\uC758 \uAE30\uB85D\uC5D0\uC11C\uC774 \uBAA8\uB4DC\uB97C \uD50C\uB808\uC774
+      \uD560 \uB54C \uB9E4\uC6B0 \uD765\uBD84 \uB420 \uAC83\uC785\uB2C8\uB2E4. \uB610\uD55C,\uC774
+      \uBAA8\uB4DC\uB294 \uB2E4\uC774\uC544\uBAAC\uB4DC \uBCF4\uC0C1\uACFC \uC0AC\uD0D5
+      \uBCF4\uC0C1\uC774 \uD48D\uBD80\uD569\uB2C8\uB2E4."
+  - key: versioninfo3
+    value: "\uC0C8\uB85C\uC6B4 \uCF58\uD150\uCE20 : \uBCF4\uBB3C \uCC3E\uAE30 \uBAA8\uB4DC,
+      \uD50C\uB808\uC774\uC5B4\uB294 \uBBF8\uC158\uC5D0\uC11C \uB3D9\uBB3C \uBCF4\uC0C1\uC744
+      \uBC1B\uACE0, \uC6D4\uB4DC \uD0C0\uC6CC\uC5D0 \uB3D9\uBB3C\uC744 \uBC30\uCE58\uD558\uACE0,
+      \uB354 \uB192\uC740 \uD0C0\uC6CC\uB97C \uAC74\uC124\uD558\uACE0, \uB354 \uB192\uC740
+      \uC9C0\uC810\uC5D0 \uD769\uC5B4\uC838\uC788\uB294 \uB2E4\uC774\uC544\uBAAC\uB4DC
+      \uBCF4\uBB3C\uC744 \uCC3E\uC2B5\uB2C8\uB2E4. \uC774\uB3D9\uD558\uC5EC \uBCF4\uBB3C\uC744
+      \uCC3E\uACE0 \uC804\uD22C \uD6A8\uC728\uC131\uC744 \uC5C5\uADF8\uB808\uC774\uB4DC\uD558\uC2ED\uC2DC\uC624."
+  - key: versioninfo4
+    value: "\uCF58\uD150\uCE20 : \uC628\uD6C5 \uBAA8\uB4DC, \uCE90\uC8FC\uC5BC \uAC8C\uC784
+      \uD50C\uB808\uC774 \uACB0\uD569 \uC804\uD22C, \uC27D\uAC8C \uC801\uC744 \uC0C1\uB300\uD558\uACE0
+      \uC5C4\uCCAD\uB09C \uC0AC\uD0D5\uC744 \uD68D\uB4DD\uD558\uC138\uC694."
+  - key: newrecord
+    value: "\uC0C8\uB85C\uC6B4 \uAE30\uB85D"
+  - key: recordfailed
+    value: "\uCC4C\uB9B0\uC9C0 \uAE30\uB85D \uC2E4\uD328"
+  - key: reward
+    value: "\uBCF4\uC0C1"
+  - key: tip30
+    value: "\uCD5C\uB300 \uC218\uB97C \uD0D1\uC7AC\uD588\uC2B5\uB2C8\uB2E4."
+  - key: enemypreview
+    value: "\uC801 \uBBF8\uB9AC\uBCF4\uAE30"
+  - key: sele
+    value: "\uACE0\uB974\uB2E4"
+  - key: tip31
+    value: "\uB2E4\uB978 \uBAA8\uB4DC\uB97C \uD50C\uB808\uC774\uD558\uACE0, \uC790\uC6D0\uC744
+      \uC5BB\uACE0, \uC804\uD22C\uB825\uC744 \uB192\uC774\uC2ED\uC2DC\uC624."
+  - key: talent
+    value: "\uC7AC\uB2A5"
+  - key: tip32
+    value: "\uACBD\uB85C \uBAA8\uB4DC \uACF5\uACA9 \uBC94\uC704"
+  - key: sky
+    value: "\uD558\uB298"
+  - key: ground
+    value: "\uBC14\uB2E5"
+  - key: simple
+    value: "\uB2E8\uC21C\uD55C"
+  - key: ordinary
+    value: "\uBCF4\uD1B5\uC8FC"
+  - key: difficult
+    value: "\uC5B4\uB824\uC6B4"
+  - key: tip33
+    value: "\uB354 \uB9CE\uC740 \uC790\uC6D0\uC744 \uC5BB\uC73C\uB824\uBA74 \uD6C4\uD06C
+      \uBAA8\uB4DC\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624."
+  - key: Unlocked
+    value: "\uC7A0\uAE08 \uD574\uC81C"
+  - key: lockroude1
+    value: "5 \uAC00\uC9C0 \uAC04\uB2E8\uD55C \uC7A0\uAE08 \uD574\uC81C \uC870\uAC74"
+  - key: lockroude2
+    value: "\uC7A0\uAE08 \uD574\uC81C \uC870\uAC74 : \uC77C\uBC18 5 \uB808\uBCA8"
+  - key: tiproude1
+    value: "\uD301 : \uC6E8\uC774\uBE0C \uAC04\uACA9\uC740 5 \uCD08\uC785\uB2C8\uB2E4.
+      \uB3D9\uBB3C\uC740 \uCD1D\uC54C\uC758 \uACF5\uACA9\uC744\uBC1B\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  - key: tiproude2
+    value: "\uD301 : \uC6E8\uC774\uBE0C \uAC04\uACA9\uC740 3 \uCD08\uC785\uB2C8\uB2E4.
+      \uB3D9\uBB3C\uC740 \uCD1D\uC54C \uACF5\uACA9\uC774 1.25 \uBC30\uB098\uB429\uB2C8\uB2E4.\uC774\uB3D9
+      \uC18D\uB3C4\uC758 1.2 \uBC30."
+  - key: tiproude3
+    value: "\uD301: \uC6E8\uC774\uBE0C \uAC04\uACA9\uC740 1\uCD08\uC785\uB2C8\uB2E4.
+      \uB3D9\uBB3C\uC740 \uBAB8\uACFC \uCD1D\uC54C \uACF5\uACA9\uC774 \uB450 \uBC30,
+      \uC22B\uC790\uAC00 \uB450 \uBC30\uC785\uB2C8\uB2E4. \uC774\uB3D9 \uC18D\uB3C4\uC758
+      1.5\uBC30."
+  - key: firtinfo5
+    value: "\uC628\uD6C5 \uBAA8\uB4DC\uAC00 \uC720\uD6A8\uD569\uB2C8\uB2E4."
+  - key: hall
+    value: "\uD640"
+  - key: lastHp
+    value: "\uB0A8\uC740 \uD608\uC561"
+  - key: stardem
+    value: "\uC2A4\uD0C0 \uC218\uC694"
+  - key: lockdem
+    value: "\uC218\uC694 \uCC3D\uCD9C"
+  - key: earlydem
+    value: "\uC870\uAE30\uC5D0 \uC218\uC694 \uD655\uBCF4"
+  - key: buydem
+    value: "\uAD6C\uB9E4 \uC694\uAD6C"
+  - key: guideinfo1
+    value: "Candy Shooter\uB97C \uD130\uB81B\uC73C\uB85C \uB4DC\uB798\uADF8\uD558\uC138\uC694."
+  - key: guideinfo2
+    value: "\uD54F \uD14C\uC774\uBE14\uC5D0\uC11C \uCE94\uB514 \uC288\uD130\uB97C
+      \uD074\uB9AD\uD558\uC138\uC694."
+  - key: guideinfo3
+    value: "\uBE48 \uD3EC\uD0D1\uC744 \uD074\uB9AD\uD569\uB2C8\uB2E4."
+  - key: guideinfo4
+    value: "\uD3EC\uD0D1\uC758 \uC800\uB808\uBCA8 \uC288\uD130\uB97C \uAD50\uCCB4\uD558\uC2ED\uC2DC\uC624."
+  - key: back
+    value: "\uBC18\uD658"
+  - key: timeout
+    value: "\uC2DC\uAC04 \uCD08\uACFC"
+  - key: bullet
+    value: "\uCD2C\uC601"
+  - key: hit
+    value: "\uD788\uD2B8"
+  - key: rise
+    value: "\uBD80\uD65C"
+  - key: risetip
+    value: "\uAD11\uACE0\uB97C \uC2DC\uCCAD\uD558\uBA74 \uBD80\uD65C\uD560 \uC218
+      \uC788\uC73C\uBA70, HP 50%, \uB77C\uC778\uC5D0 100\uD3EC\uC778\uD2B8\uB97C \uCD94\uAC00\uD560
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  - key: tiproude4
+    value: "\uD558\uB2E8\uC758 \uC2A4\uD0AC \uBC84\uD2BC\uC744 \uB204\uB974\uBA74
+      \uC2A4\uD0AC\uC774 \uD574\uC81C\uB429\uB2C8\uB2E4."
+  - key: teacpass
+    value: "\uB178\uB825\uD558\uB2E4"
+  - key: or
+    value: or
+  - key: tip34
+    value: "\uB2E4\uC774\uC544\uBAAC\uB4DC 1\uAC1C\uB97C \uC18C\uBAA8\uD558\uC5EC
+      \uBD80\uD65C\uD569\uB2C8\uB2E4."
+  - key: versioninfo5
+    value: "\uC218\uCE58 \uCD5C\uC801\uD654 \uBC0F \uAE30\uB2A5\uC801 \uACBD\uD5D8
+      \uCD5C\uC801\uD654. \uBC84\uADF8\uB97C \uC81C\uAC70\uD558\uC2ED\uC2DC\uC624."
+  - key: advertise
+    value: Ads

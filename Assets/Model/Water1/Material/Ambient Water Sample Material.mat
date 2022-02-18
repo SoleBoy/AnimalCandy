@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ambient Water Sample Material
+  m_Shader: {fileID: 4800000, guid: 763ccfb57a180a143a700ee04bbb2e2e, type: 3}
+  m_ShaderKeywords: _ADDFAKESHADOWING_ON _ENABLEFOG_ON _ENABLEROTATION_ON _USESKYBOXRELFECTIONS_OFF
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FoamMap:
+        m_Texture: {fileID: 2800000, guid: d01457b88b1c5174ea4235d140b5fab8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterNormal:
+        m_Texture: {fileID: 2800000, guid: dd2fd2df93418444c8e280f1d34deeb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Distortion: 0
+    - _FoamOpacity: 0.377
+    - _GlobalTiling: 238
+    - _GlossyReflections: 1
+    - _NormalScale: 0.74
+    - _SpecularHighlights: 1
+    - _SurfaceColorBlend: 1
+    - _SurfaceOpacity: 0.794
+    - _WaterSmoothness: 1
+    - _WaterSpecular: 1
+    - __dirty: 1
+    m_Colors:
+    - _FoamTint: {r: 0.3443396, g: 1, b: 0.9797218, a: 0}
+    - _SurfaceColor: {r: 0, g: 0.60889864, b: 1, a: 1}
+    - _WaveSpeed: {r: -0.08, g: 0.08, b: 0, a: 0}

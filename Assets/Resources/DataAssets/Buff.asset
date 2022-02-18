@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 216272e5aa1e3224eae90f62ebcb3020, type: 3}
+  m_Name: Buff
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    type: 1
+    des: "\u4E2D\u6BD2\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 6
+    probability: 100
+    boosOdds: 20
+    number: -1
+  - id: 2
+    type: 4
+    des: "\u51B0\u4F24\u51CF\u5C11\u4E00\u534A\u79FB\u52A8\u901F\u5EA6\u3002"
+    time: 5
+    probability: 60
+    boosOdds: 15
+    number: 0.5
+  - id: 3
+    type: 5
+    des: "\u706B\u4F24\u9632\u5FA1\u51CF\u534A"
+    time: 7
+    probability: 40
+    boosOdds: 12
+    number: 0.5
+  - id: 4
+    type: 6
+    des: "\u7C92\u5B50\u4F24\u539F\u5730\u7729\u6655\u3002"
+    time: 4
+    probability: 7
+    boosOdds: 5
+    number: -1
+  - id: 5
+    type: 6
+    des: "\u9E21\u86CB\u7838\u539F\u5730\u7729\u6655\u3002"
+    time: 3
+    probability: 10
+    boosOdds: 5
+    number: -1
+  - id: 6
+    type: 5
+    des: "\u7535\u4F24\u9632\u5FA1\u51CF\u534A\u3002"
+    time: 3
+    probability: 20
+    boosOdds: 10
+    number: 0.5
+  - id: 7
+    type: 6
+    des: "\u6C34\u6DF9\u539F\u5730\u7729\u6655\u3002\uFF08\u6C34\u91CC\u6301\u7EED\u4F24\u5BB3\u3002\uFF09"
+    time: 3
+    probability: 25
+    boosOdds: 7
+    number: -1
+  - id: 8
+    type: 4
+    des: "\u51B0\u4F24\u51CF\u5C11\u4E00\u534A\u79FB\u52A8\u901F\u5EA6"
+    time: 3
+    probability: 30
+    boosOdds: 15
+    number: 0.5
+  - id: 9
+    type: 5
+    des: "\u77F3\u58C1\u4F24\u9632\u5FA1\u51CF\u534A\u3002"
+    time: 4
+    probability: 35
+    boosOdds: 20
+    number: 0.5
+  - id: 10
+    type: 4
+    des: "\u706B\u4F24\u51CF\u5C11\u4E00\u534A\u79FB\u52A8\u901F\u5EA6\u3002\uFF08\u706B\u91CC\u6301\u7EED\u4F24\u5BB3\u3002\uFF09"
+    time: 4
+    probability: 35
+    boosOdds: 20
+    number: 0.5
+  - id: 11
+    type: 6
+    des: "\u5730\u9707\u4F24\u539F\u5730\u7729\u6655\u3002"
+    time: 4
+    probability: 50
+    boosOdds: 15
+    number: -1
+  - id: 12
+    type: 5
+    des: "\u7535\u78C1\u4F24\u9632\u5FA1\u51CF\u534A\u3002"
+    time: 5
+    probability: 40
+    boosOdds: 20
+    number: -1
+  - id: 13
+    type: 4
+    des: "\u94C1\u7403\u4F24\u51CF\u5C11\u4E00\u534A\u79FB\u52A8\u901F\u5EA6"
+    time: 5
+    probability: 35
+    boosOdds: 20
+    number: 0.5
+  - id: 14
+    type: 1
+    des: "\u9668\u77F3\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 6
+    probability: 40
+    boosOdds: 20
+    number: -1
+  - id: 15
+    type: 1
+    des: "\u7269\u7406\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 3
+    probability: 80
+    boosOdds: 30
+    number: -1
+  - id: 16
+    type: 4
+    des: "\u51B0\u4F24\u51CF\u5C1170%\u79FB\u52A8\u901F\u5EA6\u3002"
+    time: 4
+    probability: 40
+    boosOdds: 15
+    number: 0.7
+  - id: 17
+    type: 1
+    des: "\u706B\u4F24\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 5
+    probability: 60
+    boosOdds: 12
+    number: -1
+  - id: 18
+    type: 5
+    des: "\u7535\u78C1\u4F24\u9632\u5FA1\u51CF\u534A\u3002"
+    time: 5
+    probability: 35
+    boosOdds: 15
+    number: 0.5
+  - id: 19
+    type: 4
+    des: "\u51B0\u4F24\u51CF\u5C1170%\u79FB\u52A8\u901F\u5EA6\u3002"
+    time: 4
+    probability: 50
+    boosOdds: 20
+    number: 0.7
+  - id: 20
+    type: 6
+    des: "\u7269\u7406\u4F24\u5BB3\u654C\u4EBA\u7729\u6655\u3002"
+    time: 4
+    probability: 5
+    boosOdds: 3
+    number: -1
+  - id: 21
+    type: 7
+    des: "\u654C\u4EBA\u4E0D\u80FD\u5C04\u51FB\u3002"
+    time: 6
+    probability: 100
+    boosOdds: 100
+    number: -1
+  - id: 22
+    type: 8
+    des: "\u8EAB\u4F53\u653B\u51FB\u529B\u51CF\u534A\u3002"
+    time: 6
+    probability: 50
+    boosOdds: 20
+    number: 0.5
+  - id: 23
+    type: 1
+    des: "\u706B\u4F24\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 3
+    probability: 100
+    boosOdds: 50
+    number: -1
+  - id: 24
+    type: 16
+    des: "\u539F\u5730\u51B0\u51BB\u3002"
+    time: 3
+    probability: 8
+    boosOdds: 5
+    number: -1
+  - id: 25
+    type: 6
+    des: "\u706B\u4F24\u539F\u5730\u7729\u6655\u3002"
+    time: 2
+    probability: 10
+    boosOdds: 6
+    number: -1
+  - id: 26
+    type: 4
+    des: "\u51B0\u4F24\u51CF\u5C11\u4E00\u534A\u79FB\u52A8\u901F\u5EA6\u3002"
+    time: 3
+    probability: 100
+    boosOdds: 100
+    number: 0.5
+  - id: 27
+    type: 6
+    des: "\u7C92\u5B50\u4F24\u7729\u6655\u3002"
+    time: 1
+    probability: 9
+    boosOdds: 6
+    number: -1
+  - id: 28
+    type: 16
+    des: "\u539F\u5730\u51B0\u51BB\u3002"
+    time: 1.8
+    probability: 20
+    boosOdds: 12
+    number: -1
+  - id: 29
+    type: 1
+    des: "\u706B\u4F24\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 1
+    probability: 100
+    boosOdds: 50
+    number: -1
+  - id: 30
+    type: 1
+    des: "\u706B\u4F24\u6301\u7EED\u4F24\u5BB3\u3002"
+    time: 3
+    probability: 80
+    boosOdds: 30
+    number: -1
+  - id: 31
+    type: 9
+    des: "\u9632\u5FA1\u5931\u6548\u3002"
+    time: 5
+    probability: 100
+    boosOdds: 20
+    number: 1
+  - id: 32
+    type: 16
+    des: "\u539F\u5730\u51B0\u51BB\u3002"
+    time: 6
+    probability: 100
+    boosOdds: 100
+    number: -1
+  - id: 33
+    type: 10
+    des: "\u8EAB\u4F53\u653B\u51FB\u529B\u53D8\u5C0F\u51751/Boss50\u3002"
+    time: 5
+    probability: 100
+    boosOdds: 100
+    number: 1|50
+  - id: 34
+    type: 11
+    des: "\u79FB\u52A8\u901F\u5EA6\u51CF70%\u3002"
+    time: 6
+    probability: 100
+    boosOdds: 100
+    number: 0.7
+  - id: 35
+    type: 12
+    des: "\u57FA\u7840\u8840\u91CF\u51CF\u5C11\u5C0F\u5175100%/Boss1.5%\u3002"
+    time: 1
+    probability: 100
+    boosOdds: 100
+    number: 0.3|0.15
+  - id: 36
+    type: 13
+    des: "\u70AE\u5854\u653B\u51FB\u7FFB\u500D\u3002"
+    time: 30
+    probability: 100
+    boosOdds: 0
+    number: 2
+  - id: 37
+    type: 14
+    des: "\u7C92\u5B50\u6301\u7EED\u4F24\u5BB3\u6BCF\u79D2\u5C0F\u517510%/Boss5%\u3002"
+    time: 5
+    probability: 100
+    boosOdds: 100
+    number: 0.1|0.5
+  - id: 38
+    type: 7
+    des: "\u4E0D\u80FD\u5C04\u51FB\u3002"
+    time: 15
+    probability: 100
+    boosOdds: 100
+    number: -1
+  - id: 39
+    type: 12
+    des: "\u5269\u4F59\u8840\u91CF\u51CF\u5C11\u5C0F\u5175100%/Boss30%\u3002"
+    time: 1
+    probability: 50
+    boosOdds: 100
+    number: 1|0.3
+  - id: 40
+    type: 15
+    des: "\u6062\u590D\u86CB\u7CD5\u751F\u547D\u3002"
+    time: 1
+    probability: 100
+    boosOdds: 0
+    number: -1
